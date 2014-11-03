@@ -6,9 +6,17 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Help</seg>
+      </tuv>
+      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042409Z" creationid="ktgw0316" creationdate="20141103T042409Z">
+        <seg>LightZone Hjælp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T034401Z" creationid="ktgw0316" creationdate="20141103T034401Z">
+      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042013Z" creationid="ktgw0316" creationdate="20141103T034401Z">
         <seg>da-DK</seg>
       </tuv>
     </tu>
