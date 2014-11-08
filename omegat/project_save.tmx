@@ -1,22 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_11" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Display the path of the current folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210054Z">
+        <seg>Vis stien til den nuværende folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go back to previously selected folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210003Z">
+        <seg>Gå tilbage til forrige valgte amppe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go forward to recently selected folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210030Z">
+        <seg>Gå tilbage til en for nylig valgt mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Help</seg>
       </tuv>
-      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042409Z" creationid="ktgw0316" creationdate="20141103T042409Z">
+      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042409Z">
         <seg>LightZone Hjælp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slide right to increase thumbnail size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210137Z">
+        <seg>Skub til højre for at øge thumbnail størrelsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail Progress</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210113Z">
+        <seg>Thumbnail fremskridt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042013Z" creationid="ktgw0316" creationdate="20141103T034401Z">
+      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042013Z">
         <seg>da-DK</seg>
       </tuv>
     </tu>
