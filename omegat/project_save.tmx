@@ -6,10 +6,138 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Aperture</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211154Z">
+        <seg>Blænde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213504Z">
+        <seg>Tilføj stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply toolstack to the selected image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210857Z">
+        <seg>Tilføj værktøjsstak til det valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture Time</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211116Z">
+        <seg>Optagelses tidspunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the browser sort criteria</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210703Z">
+        <seg>Vælg søge rækkefølge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Tools</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213439Z">
+        <seg>Kopierings værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy toolstack to clipboard from selected image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210833Z">
+        <seg>Kopier værktøjsstakken fra valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Trash.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214116Z">
+        <seg>Kunne ikke flytte $1 til papirkurven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211026Z">
+        <seg>Slet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the selected image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210907Z">
+        <seg>Slet det valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213738Z">
+        <seg>Slet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display the path of the current folder</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210054Z">
         <seg>Vis stien til den nuværende folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213427Z">
+        <seg>Rediger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211101Z">
+        <seg>Filnavn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211209Z">
+        <seg>Fil størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211107Z">
+        <seg>Fil type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal Length</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211223Z">
+        <seg>Brændvidde</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +158,314 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Image Types</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213800Z">
+        <seg>Skjul filtype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lens</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211213Z">
+        <seg>Linse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Help</seg>
       </tuv>
       <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042409Z">
         <seg>LightZone Hjælp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification Time</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211148Z">
+        <seg>Sidste ændrings tidspunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move "$1" to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214133Z">
+        <seg>Flyt "$1" til papirkurven?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move "$1" to the Trash?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214041Z">
+        <seg>Flyt "$1" til papirkurven?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214211Z">
+        <seg>Flyt alle $1 valgte billeder til papirkurven?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Trash?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214036Z">
+        <seg>Flyt $1 de valgte billeder til papirkurven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Recycle Bin</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214222Z">
+        <seg>Flyt til pairkurven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Recycle Bin...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213713Z">
+        <seg>Flyt til affaldsspanden...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214056Z">
+        <seg>Flyt til papirkurven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213729Z">
+        <seg>Flyt til affaldsspande...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Computer</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211056Z">
+        <seg>Min computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open LightZone files to rotate them</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211255Z">
+        <seg>Åben LightZone filer for at rotere dem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orient</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210955Z">
+        <seg>Vend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Tools...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213455Z">
+        <seg>Sæt ind værktøjer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211000Z">
+        <seg>Bedøm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213843Z">
+        <seg>Bedøm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate $1 and Select Next</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213857Z">
+        <seg>Bedøm $1 og vælg næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate the selected image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210924Z">
+        <seg>Vurder det valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211128Z">
+        <seg>Bedømmelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213613Z">
+        <seg>Genopfrisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rating</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213906Z">
+        <seg>Fjern bedømmelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rating and Select Next</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213918Z">
+        <seg>Fjern bedømmelse og vælg næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213700Z">
+        <seg>Omdøb...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210753Z">
+        <seg>Roter 90 grader med uret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate 90 degrees counter-clockwise</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210743Z">
+        <seg>Roter 90 grader mod uret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Left</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213511Z">
+        <seg>Roter til venstre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Left and Select Next</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213531Z">
+        <seg>Roter til venre og vælg næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Right</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213519Z">
+        <seg>Roter til højre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Right and Select Next</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213557Z">
+        <seg>Roter til højre og vælg næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211023Z">
+        <seg>Vælg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213926Z">
+        <seg>Vælg en mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select only most recent version from each stack</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210950Z">
+        <seg>Vælg kun den nyeste verision fra hver stak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Image Types</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213752Z">
+        <seg>Vis filtype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Explorer</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213630Z">
+        <seg>Vis i stifinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Finder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213646Z">
+        <seg>Vis i stifinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213654Z">
+        <seg>Vis i mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutter Speed</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211203Z">
+        <seg>Lukker hastighed</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +478,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211012Z">
+        <seg>Sorter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Ascending</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210715Z">
+        <seg>Sorter stigende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Descending</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210726Z">
+        <seg>Soerter faldende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211042Z">
+        <seg>Stabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnail Progress</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210113Z">
         <seg>Thumbnail fremskridt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail Size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211020Z">
+        <seg>Thumbnail størrelse</seg>
       </tuv>
     </tu>
     <tu>
