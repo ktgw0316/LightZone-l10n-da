@@ -54,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201836Z">
+        <seg>Tilføj $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the color range</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200428Z">
         <seg>Juster toneomfanget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202213Z">
+        <seg>Alle</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Preset</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201817Z">
+        <seg>Anvend forudvalgte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Presets</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201830Z">
+        <seg>Anvend forudvalgte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213504Z">
         <seg>Tilføj stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply this tool to a selected color</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202119Z">
+        <seg>Tilføj dette værktøj til en valgt farve</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel color selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202129Z">
+        <seg>Fortryd farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154828Z">
@@ -206,10 +254,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse Tool</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201902Z">
+        <seg>Sammenklap værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse this tool</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202033Z">
+        <seg>Sammenklap dette værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Change</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162229Z">
         <seg>Skift farve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Dropper Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201947Z">
+        <seg>Farve indsætnings vælger</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +326,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201537Z">
+        <seg>Farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Selection Mask</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155220Z">
         <seg>Farve valgs maske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selector</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201931Z">
+        <seg>Farve vælger</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +362,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153545Z">
         <seg>Forsæt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast Mask</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202631Z">
+        <seg>Fjern kontrast</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +502,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201655Z">
+        <seg>Forhindre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable Color Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202015Z">
+        <seg>Forbyd farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable the hue selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202316Z">
+        <seg>Forbyd valg af mætning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202403Z">
+        <seg>Forbyd valg af lysstyrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display the path of the current folder</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210054Z">
@@ -478,10 +606,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201638Z">
+        <seg>Tillad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Color Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202003Z">
+        <seg>Tillad farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the hue selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202231Z">
+        <seg>Tillad valg af mætning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202352Z">
+        <seg>Tillad valg af lysstyrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enforce aspect ratio constraints</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154124Z">
         <seg>Gennemtving højde-bredde begrænsning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Tool</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201851Z">
+        <seg>Udvid værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand this tool</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202023Z">
+        <seg>Udvid dette værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide extra tool controls</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202203Z">
+        <seg>Skjul ekstra værktøjs kontroller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide print proofing tool</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155244Z">
@@ -718,6 +902,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hue/Saturation</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202806Z">
+        <seg>Farve/Mætning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202428Z">
+        <seg>Omvend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert Color Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202550Z">
+        <seg>Omvend farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert Masks</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201515Z">
+        <seg>Omvendt maske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert the color selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202436Z">
+        <seg>Omvend farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lens</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211213Z">
@@ -746,6 +970,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154836Z">
         <seg>Indlæser...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201701Z">
+        <seg>Lås</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +1090,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T161954Z">
         <seg>Ingen info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal Color Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202600Z">
+        <seg>Normalt fravevalg</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1238,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember Preset</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201750Z">
+        <seg>Husk forudindstilling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201843Z">
+        <seg>Fjern $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove Aspect Ratio Constraints</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154101Z">
@@ -1018,6 +1274,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213918Z">
         <seg>Fjern bedømmelse og vælg næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove from the stack</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201735Z">
+        <seg>Fjern fra stakken</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revert the color selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202533Z">
+        <seg>Fortryd farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154445Z">
@@ -1206,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select $1 Preset</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201725Z">
+        <seg>Vælg $1 forvalgte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153825Z">
@@ -1238,6 +1518,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the hue range</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202303Z">
+        <seg>Vælg omfang af mætning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the luminosity range</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202417Z">
+        <seg>Vælg omfanget af lysstyrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202605Z">
+        <seg>Vælg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set opacity</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200443Z">
@@ -1258,6 +1562,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195935Z">
         <seg>Skygge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202747Z">
+        <seg>Skarphed</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,6 +1610,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155400Z">
         <seg>Vis rotations værktøjet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show extra tool controls</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202146Z">
+        <seg>Vis ekstra værktøjs kontroller</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +1674,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155356Z">
         <seg>Vis rotations værktøjet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the help for this tool</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202045Z">
+        <seg>Vis hjælp for dette værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1746,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195836Z">
         <seg>Styrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap Tools</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201914Z">
+        <seg>Udskift værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool Change</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201923Z">
+        <seg>Skift værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool Opacity</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200526Z">
@@ -1502,10 +1846,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool Settings</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201532Z">
+        <seg>Værktøjs indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154759Z">
         <seg>Fortryd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201707Z">
+        <seg>Lås op</seg>
       </tuv>
     </tu>
     <tu>
