@@ -38,10 +38,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 sec at f/$2</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162036Z">
+        <seg>$1 sec til f/$2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155212Z">
         <seg>...og $1 mere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust the color range</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200428Z">
+        <seg>Juster toneomfanget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amount</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200145Z">
+        <seg>Mængde</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +126,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blend</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200336Z">
+        <seg>Blanding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend Mode Change</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200406Z">
+        <seg>Ændre blande metode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blending Mode</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200511Z">
+        <seg>Blande måde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162250Z">
+        <seg>Blå</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153627Z">
@@ -134,10 +190,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capture time</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162135Z">
+        <seg>Optagelses tidspunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the browser sort criteria</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210703Z">
         <seg>Vælg søge rækkefølge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Change</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162229Z">
+        <seg>Skift farve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Intensity</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195726Z">
+        <seg>Farve intensitet</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +230,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Noise</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195812Z">
+        <seg>Farve støj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Profile</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155650Z">
         <seg>Farve profil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Radius</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195735Z">
+        <seg>Farve radius</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyan-Red</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195849Z">
+        <seg>Cyan-rød</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211026Z">
@@ -282,6 +386,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213738Z">
         <seg>Slet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195939Z">
+        <seg>Dybde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detail</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195924Z">
+        <seg>Detaljer</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +462,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162107Z">
+        <seg>Rediger størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty Info</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T161948Z">
+        <seg>Ingen info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enforce aspect ratio constraints</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154124Z">
         <seg>Gennemtving højde-bredde begrænsning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162025Z">
+        <seg>Eksponering</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +514,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211107Z">
         <seg>Fil type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File time</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162147Z">
+        <seg>Fil tidspunkte</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195950Z">
+        <seg>Korn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go back to previously selected folder</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153308Z">
@@ -434,6 +594,38 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153333Z">
         <seg>Gå tilbage til sidst valgte mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Intensity</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195804Z">
+        <seg>Korn intensitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Noise</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195829Z">
+        <seg>Korn støj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Radius</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195753Z">
+        <seg>Korn radius</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162243Z">
+        <seg>Grøn</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +694,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195931Z">
+        <seg>Højlys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155500Z">
         <seg>Historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hue</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200042Z">
+        <seg>Nuance</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +746,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154836Z">
         <seg>Indlæser...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luminosity</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200136Z">
+        <seg>Lysstyrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magenta-Green</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195857Z">
+        <seg>Magenta-grøn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midpoint</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195914Z">
+        <seg>Midtpunkt</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +854,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Info</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T161954Z">
+        <seg>Ingen info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opacity Change</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200500Z">
+        <seg>Ændre gennemsigtighed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open LightZone files to rotate them</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211255Z">
@@ -646,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick Color</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162236Z">
+        <seg>Vælg farve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixel Sampler</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155226Z">
@@ -666,6 +922,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155719Z">
         <seg>Kvalitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200413Z">
+        <seg>Rækkevidde</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +970,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211128Z">
         <seg>Bedømmelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162239Z">
+        <seg>Rød</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Color Selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200600Z">
+        <seg>Nulstil farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset Crop</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154507Z">
@@ -814,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset color selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200539Z">
+        <seg>Nulstil farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset the crop bounds</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154216Z">
@@ -824,8 +1112,8 @@
       <tuv lang="EN-US">
         <seg>Reset the rotation</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154225Z">
-        <seg>Nulstil roataion</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195641Z">
+        <seg>Nulstil rotation</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saturation</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200047Z">
+        <seg>Mætning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155741Z">
@@ -938,6 +1234,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210950Z">
         <seg>Vælg kun den nyeste verision fra hver stak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set opacity</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200443Z">
+        <seg>Sæt gennemsigtighed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the default value</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162213Z">
+        <seg>Angiv standard værdien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shadows</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195935Z">
+        <seg>Skygge</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,10 +1414,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195836Z">
+        <seg>Styrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swap width and height</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154238Z">
         <seg>Byt om på højde og bredde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200236Z">
+        <seg>Temperatur</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threshold</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200231Z">
+        <seg>Nedre grænse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnail Progress</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210113Z">
@@ -1134,6 +1478,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tint</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200243Z">
+        <seg>Farve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200150Z">
+        <seg>tolerance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Opacity</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200526Z">
+        <seg>Værktøjets gennemsigtighed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154759Z">
@@ -1146,6 +1514,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153836Z">
         <seg>Fravælg alle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162054Z">
+        <seg>Versions størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellow-Blue</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195906Z">
+        <seg>Gul-blå</seg>
       </tuv>
     </tu>
     <tu>
