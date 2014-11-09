@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black and White</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212115Z">
+        <seg>Sort og hvid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200336Z">
@@ -246,10 +254,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Channel Mixer</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212107Z">
+        <seg>Kanal mixer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the browser sort criteria</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210703Z">
         <seg>Vælg søge rækkefølge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clone</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212137Z">
+        <seg>Kon</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +290,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202033Z">
         <seg>Sammenklap dette værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Balance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T211923Z">
+        <seg>Farve Balance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Cast</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212048Z">
+        <seg>Farve tildeling</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise Reduction</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212128Z">
+        <seg>Støj reduktion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal Color Selection</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202600Z">
@@ -1166,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAW Adjustments</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212221Z">
+        <seg>RAW Justering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Range</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200413Z">
@@ -1218,6 +1274,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162239Z">
         <seg>Rød</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red Eyes</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212156Z">
+        <seg>Rød øje</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spot</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212150Z">
+        <seg>Plet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stack</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211042Z">
@@ -1882,6 +1954,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162054Z">
         <seg>Versions størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Balance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212057Z">
+        <seg>Hvid ballance</seg>
       </tuv>
     </tu>
     <tu>
