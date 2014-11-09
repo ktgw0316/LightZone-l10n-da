@@ -158,6 +158,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Shot</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212437Z">
+        <seg>Som optaget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As-Shot White Balance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212426Z">
+        <seg>Som optaget hvid balance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto White Balance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212404Z">
+        <seg>Auto hvid balance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bit Depth</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155712Z">
@@ -1190,6 +1214,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick White Balance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212354Z">
+        <seg>Vælg hvid ballance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick White Point</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212506Z">
+        <seg>Vælg hvid punkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixel Sampler</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155226Z">
@@ -1962,6 +2002,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212057Z">
         <seg>Hvid ballance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Point Change</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212454Z">
+        <seg>Ændre hvid punkt</seg>
       </tuv>
     </tu>
     <tu>
