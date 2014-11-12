@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 files to process</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100651Z">
+        <seg>$1 filer at bearbejde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 is an empty file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154925Z">
@@ -38,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 of $2 files processed, $3 seconds remaining</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100732Z">
+        <seg>$1 af $2 filer bearbejdet, $3 sekunder tilbage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 sec at f/$2</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162036Z">
@@ -50,6 +66,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155212Z">
         <seg>...og $1 mere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 file to process</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100638Z">
+        <seg>1 fil at bearbejde</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,10 +206,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch Output Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100818Z">
+        <seg>Folder til batch filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bit Depth</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155712Z">
         <seg>Bit dybde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black &amp; White</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212341Z">
+        <seg>Sort &amp; hvid</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +330,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210703Z">
         <seg>Vælg søge rækkefølge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100740Z">
+        <seg>Vælg...</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100626Z">
+        <seg>Færdig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw Bezier Regions</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154543Z">
@@ -658,6 +714,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162107Z">
         <seg>Rediger størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing Tools</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212400Z">
+        <seg>Redigerings værktøjer</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +770,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154124Z">
         <seg>Gennemtving højde-bredde begrænsning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error reading the file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100502Z">
+        <seg>Fejl i læsning af fil</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid image file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100519Z">
+        <seg>Forkert fil type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invert</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202428Z">
@@ -1026,6 +1106,22 @@
       </tuv>
       <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042409Z">
         <seg>LightZone Hjælp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Table of Contents</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212248Z">
+        <seg>LightZone: Indholdsfortegnelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Table of contents.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212326Z">
+        <seg>LightZone: Indhodsfortegnelse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not enough memory</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100529Z">
+        <seg>Ikke nok hukommelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opacity Change</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200500Z">
@@ -1194,6 +1298,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210955Z">
         <seg>Vend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212411Z">
+        <seg>Andet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1682,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155741Z">
         <seg>Gem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save To:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100844Z">
+        <seg>Gem til:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown error processing this file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100621Z">
+        <seg>Ukendt fejl i bearbejdning af fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201707Z">
@@ -1982,10 +2110,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unrecognized image format</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100538Z">
+        <seg>Ukendt fil type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unselect All</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153836Z">
         <seg>Fravælg alle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported camera</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100548Z">
+        <seg>Ikke understøttet kamera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported color profile</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100601Z">
+        <seg>Ikke understøttet farve profil</seg>
       </tuv>
     </tu>
     <tu>
