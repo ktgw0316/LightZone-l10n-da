@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser anatomy</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125627Z">
+        <seg>Browser opbygning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153627Z">
@@ -1046,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125853Z">
+        <seg>Indholdsfortegnelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100519Z">
@@ -1082,6 +1098,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202436Z">
         <seg>Omvend farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn to use LightZone from start to finish.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125844Z">
+        <seg>Lær at benytte LightZone fra start til slut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1162,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201701Z">
         <seg>Lås</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look up topics easily.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125955Z">
+        <seg>Led nemt efter hjælp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1234,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214036Z">
         <seg>Flyt $1 de valgte billeder til papirkurven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125714Z">
+        <seg>Flyt musen til det objekt du vil undersøge og klik for at få mere at vide om det</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125815Z">
+        <seg>Indholdsfortegnelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200236Z">
@@ -2218,6 +2266,14 @@
       </tuv>
       <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042013Z">
         <seg>da-DK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>index/index.html</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125908Z">
+        <seg>inholdsfortegnelse/index.html</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
