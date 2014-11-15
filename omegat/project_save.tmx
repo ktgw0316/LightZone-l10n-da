@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 images selected</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160222Z">
+        <seg>$1 billeder valgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 is an empty file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154925Z">
@@ -78,6 +86,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160811Z">
+        <seg>&lt;html&gt;Forsæt  (Progammet kan være ustabilt)&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Exit without saving files&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160824Z">
+        <seg>&lt;html&gt;Afslut uden at gemme filer&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160745Z">
+        <seg>&lt;html&gt;Gem alle filer og afslut  &lt;b&gt;(anbefalet)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Style named "$1" already exists.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155416Z">
+        <seg>En stil ved navn "$1" findes allerede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A file named "$1" already exists in $2.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164549Z">
+        <seg>En fil ved navn "$1" findes allerede i $2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new version ($1) of $2 is available.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162313Z">
+        <seg>En ny verision ($1) af $2 er tilgængelig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About LightZone</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165925Z">
+        <seg>Om LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165634Z">
+        <seg>Tilføj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add $1</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201836Z">
@@ -98,6 +170,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202213Z">
         <seg>Alle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always apply this Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160941Z">
+        <seg>Tilføj altid denne stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always apply this Style to RAW images from "$1"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160924Z">
+        <seg>Tilføj altid denne stil til RAW filer fra "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Style to the selected image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164258Z">
+        <seg>Tiløj stil til det valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply this tool to a selected color</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202119Z">
@@ -178,6 +274,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210857Z">
         <seg>Tilføj værktøjsstak til det valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to quit LightZone?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155900Z">
+        <seg>Er du sikker på du vil lukke LightZone?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to reset?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161905Z">
+        <seg>Er du sikker på du vil nulstille?</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +318,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-save is now on.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160322Z">
+        <seg>Auto-save er nu startet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch Name</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154852Z">
+        <seg>Batch navn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Output Folder</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100818Z">
         <seg>Folder til batch filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bezier Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165721Z">
+        <seg>Bezier områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +406,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring All to Front</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165620Z">
+        <seg>Bring alt til forgrunden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164959Z">
+        <seg>Gennemse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Mode</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165021Z">
+        <seg>Gennemse som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Recent</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165332Z">
+        <seg>Gennemse nylige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165537Z">
+        <seg>Stifinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browser Layout</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165905Z">
+        <seg>Stifinder udseende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125627Z">
@@ -280,8 +464,8 @@
       <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153627Z">
-        <seg>Annuler</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154822Z">
+        <seg>Annuller</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +518,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for Update...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165953Z">
+        <seg>Kontroller for opdatering...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking for update...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162036Z">
+        <seg>Kontrolerer for opdatering...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the browser sort criteria</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210703Z">
@@ -350,6 +550,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear Recent Files</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165326Z">
+        <seg>Ryd nylige filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Recent Folders</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165350Z">
+        <seg>Ryd nylige mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the image where you would like to create one or more regions.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154325Z">
+        <seg>Klik på det billede der hvor du gerne vil lave en eller flere regioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the Crop button again to commit.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154732Z">
+        <seg>Klik på formindsk knappen for at udføre handlingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clone</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212137Z">
@@ -358,10 +590,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close Image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165424Z">
+        <seg>Luk billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse Tool</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201902Z">
         <seg>Sammenklap værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse image stacks</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164311Z">
+        <seg>Sammenfold billed stk</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +750,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert Image...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165434Z">
+        <seg>Konverter billede...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert the selected image to a new image type</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165105Z">
+        <seg>Konverter det valgte bille til en anden billedtype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160158Z">
+        <seg>Konverter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155710Z">
+        <seg>Konvertering...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Region</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165503Z">
+        <seg>Kopier område</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy Tools</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213439Z">
         <seg>Kopierings værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy the selected image to another folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164734Z">
+        <seg>Kopier det valgte bilede til en anden mappe</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,10 +814,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access the "$1" Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155516Z">
+        <seg>Kunne ikke få adgang til "$1" stilen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't convert $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155720Z">
+        <seg>Kunne ikke konvertere $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't delete $1.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T153539Z">
         <seg>Kunne ikke slette $1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't delete an older version of "$1"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155737Z">
+        <seg>Kunne ikke slette den gamle verision af "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find a Style named "$1"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155455Z">
+        <seg>Kunne ikke finde en stil ved navn "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,10 +870,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't find the original image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155116Z">
+        <seg>Kunne ikke finde det origianle billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't import a Style from "$1".</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155617Z">
+        <seg>Kunne ikke importere en stil fra "$1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't interpret the file "$1" as a Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155539Z">
+        <seg>Kunne ikke udføre filen "$1" som en stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't manage to save directly.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155645Z">
+        <seg>Kunner ikke gennemføre at gemme direkte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't move $1 to the Trash.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214116Z">
         <seg>Kunne ikke flytte $1 til papirkurven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't print</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155702Z">
+        <seg>Kunne ikke printe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't rename "$1" to "$2"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155752Z">
+        <seg>Kunne ikke omdøbe "$1" til "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,10 +942,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't save this Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155441Z">
+        <seg>Kunne ikke gemme denne stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't save to $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155627Z">
+        <seg>Kunne ikke gemme til $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crop</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154246Z">
         <seg>Formindsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160949Z">
+        <seg>Brugervalgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut Region</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165455Z">
+        <seg>Klip område</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,10 +990,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default settings for batch processing</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161522Z">
+        <seg>Forudbestemte indstillinger for batch processer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default settings for saving, printing, and converting</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161448Z">
+        <seg>Forudbestemte indstillinger for at gemme, printe og konvertere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211026Z">
         <seg>Slet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Selected Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165734Z">
+        <seg>Slet valgte områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard changes to this image and start over</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164457Z">
+        <seg>Fortryd alle ændringer til billedet og start forfra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display the path of the current folder</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210054Z">
@@ -670,6 +1110,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to search for it?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160557Z">
+        <seg>Vil du lede efter den?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't Reset</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161154Z">
+        <seg>Nulstil ikkeDon't Reset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't Save</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155848Z">
+        <seg>Gem ikke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't ask again</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155911Z">
+        <seg>Spørg ikke igen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't limit</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155623Z">
@@ -678,10 +1150,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't remind me</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162118Z">
+        <seg>Mind mig ikke om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100626Z">
         <seg>Færdig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154420Z">
+        <seg>Dobbelt klik for at afslutte oprettelsen af region (eller shift-click, eller pres ESC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Now</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162124Z">
+        <seg>Hent nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a rectangle on the image to crop it.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154704Z">
+        <seg>Træk en firkant på billedet for at formindske det</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag along features in your image to align them.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154625Z">
+        <seg>lav en linje gennem de punkter i billedet du vil have på linje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Mode</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165032Z">
+        <seg>Rediger som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit size</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162107Z">
@@ -726,10 +1246,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit the selected image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164226Z">
+        <seg>Rediger det valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing Tools</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212400Z">
         <seg>Redigerings værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Layout</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165920Z">
+        <seg>Editor udseende</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +1318,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Details</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160844Z">
+        <seg>Oplysninger om fejlen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error applying Style "$1"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155558Z">
+        <seg>Fejl i tilføjelsen af stilen "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error initializing browser</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160146Z">
+        <seg>Kunne ikke åbne stifinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error reading the file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100502Z">
@@ -790,10 +1350,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165439Z">
+        <seg>Luk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand Tool</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201851Z">
         <seg>Udvid værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand image stacks</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164321Z">
+        <seg>Udvid billed stak</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +1386,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162025Z">
         <seg>Eksponering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to restore from preferences</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160117Z">
+        <seg>Kunne ikke gendanne fra indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to save preferences</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160104Z">
+        <seg>Kunne ikke gemme indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165240Z">
+        <seg>Fil</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +1442,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162147Z">
         <seg>Fil tidspunkte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finish editing and return to Browse Mode</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164423Z">
+        <seg>Afslut redigering og vend tilbage til Stifinder</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +1498,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211223Z">
         <seg>Brændvidde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160854Z">
+        <seg>Mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folders</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162332Z">
+        <seg>Mapper</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161144Z">
+        <seg>Hjælp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154330Z">
@@ -978,6 +1610,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155257Z">
         <seg>Skjul Proof Tool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165158Z">
+        <seg>Skjul områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,10 +1694,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you don't save, your changes will be lost.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155842Z">
+        <seg>Hvis du ikke gemer vil lle ændringer gå tabt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import as Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155320Z">
+        <seg>Importer som stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125853Z">
         <seg>Indholdsfortegnelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing Engine Utilities</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160030Z">
+        <seg>Starter makinens tilbehør</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient memory to open this file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155143Z">
+        <seg>Ikke nok hukommelse til at åben denne fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Error</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160829Z">
+        <seg>Intern fejl</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1782,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is one of these the right image?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160441Z">
+        <seg>Er en ad følgende det rette billede?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this a LightZone Style file?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155222Z">
+        <seg>Er dette en LightZone stil fil?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this right?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160544Z">
+        <seg>Er dette korrekt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn to use LightZone from start to finish.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125844Z">
@@ -1114,6 +1818,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211213Z">
         <seg>Linse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Batch Processing</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154933Z">
+        <seg>LightZone batch udførelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1846,102 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Send</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154938Z">
+        <seg>LightZone send</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings Error</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162015Z">
+        <seg>LightZone Indstillinger fejl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings Help</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161805Z">
+        <seg>Hjælp tilLightZone indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings couldn't be reset</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162004Z">
+        <seg>LighZone kunne ikke nulstiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings remember what was going on the last time you used LightZone.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161305Z">
+        <seg>LightZone indstillenger husker hvad der foregik sidst su benyttede programmet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings were successfully reset.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161950Z">
+        <seg>LightZone indstillinger blev nulstillet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Startup Error</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161139Z">
+        <seg>LightZone Start fejl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone copied $1 to $2, but could not delete the old image from $3.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164656Z">
+        <seg>LightZone kopierede $1 to $2, men kunne ikke slette det gamle billede $3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone could not copy $1 to $2.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164606Z">
+        <seg>LightZone kunne ikke kopiere $1 til $2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone failed to start last time.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161022Z">
+        <seg>LightZone kunne ikke starte sidste gang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has encountered an internal error.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160633Z">
+        <seg>LightZone har fundet en intern fejl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160714Z">
+        <seg>LightZone er løbet tør for hukommelse og afsluttes nu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Table of Contents</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212248Z">
@@ -1146,6 +1954,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212326Z">
         <seg>LightZone: Indhodsfortegnelse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Classes</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160039Z">
+        <seg>Åbner biblioteker</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,10 +2006,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Malformed LightZone file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155130Z">
+        <seg>Ødelagt LightZone fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Styles...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165418Z">
+        <seg>Håndter stile...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Midpoint</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195914Z">
         <seg>Midtpunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165821Z">
+        <seg>Minimer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the sliders in the Rotate Tool to rotate your image.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154502Z">
+        <seg>Bevæg skyderne i rotations værktøjet for at roetere dit billede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Recycle Bin</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T214222Z">
@@ -1286,6 +2134,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160928Z">
+        <seg>Navne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Window</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165231Z">
+        <seg>Nyt vindue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Browser</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165553Z">
+        <seg>Ingen stifinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165641Z">
+        <seg>Intet billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Info</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T161954Z">
@@ -1294,10 +2174,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Open Windows</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165629Z">
+        <seg>Ingen åbne vinduer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Recent Files</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165313Z">
+        <seg>Ingen nyligt åbnede filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Recent Folders</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165339Z">
+        <seg>Ingen nylige mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Regions Defined</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165749Z">
+        <seg>Ingen områder defineret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165409Z">
+        <seg>Ingen stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No internet connection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162134Z">
+        <seg>Inger internet forbindelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No update is available.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162235Z">
+        <seg>Ingen opdateringer tilgægelige.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Noise Reduction</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212128Z">
         <seg>Støj reduktion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162019Z">
+        <seg>Ingen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,10 +2270,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155100Z">
+        <seg>Åbn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open LightZone files to rotate them</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211255Z">
         <seg>Åben LightZone filer for at rotere dem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Normally</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155329Z">
+        <seg>Åbn normalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Recent</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165305Z">
+        <seg>Åben nylige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open an Image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160205Z">
+        <seg>Åbn et billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open image from dialog</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165128Z">
+        <seg>Åben billede fra </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165245Z">
+        <seg>Åbn...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160052Z">
+        <seg>Åbner...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +2346,38 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212411Z">
         <seg>Andet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output Size:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155024Z">
+        <seg>Output størrelse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output to:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154908Z">
+        <seg>Gem i:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Region</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165508Z">
+        <seg>Indsæt område</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Region Linked</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165523Z">
+        <seg>Indsæt område link</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,10 +2414,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick a folder that has some images in it.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154745Z">
+        <seg>Vælg en folder med billeder i.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixel Sampler</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155226Z">
         <seg>Pixel sampler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please connect, then try again.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162219Z">
+        <seg>Forbind og prøv igen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polygonal Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165716Z">
+        <seg>Polygonal områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165530Z">
+        <seg>Indstillinger...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previewing...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160151Z">
+        <seg>Gennemser...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print the selected image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164744Z">
+        <seg>Print det valgte billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print this image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164753Z">
+        <seg>Print dette billede</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,10 +2486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printing...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155653Z">
+        <seg>Printer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155719Z">
         <seg>Kvalitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155905Z">
+        <seg>Luk</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recently used files and directories</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161402Z">
+        <seg>Nyligt brugte filer og mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Red</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162239Z">
@@ -1486,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redo last step</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164347Z">
+        <seg>Udfør sidste handling igen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213613Z">
@@ -1494,10 +2614,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165648Z">
+        <seg>Områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember Preset</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201750Z">
         <seg>Husk forudindstilling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remind me later</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162244Z">
+        <seg>Påmind mig senere</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rescan Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165300Z">
+        <seg>Skan folder igen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154129Z">
@@ -1602,6 +2746,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154507Z">
         <seg>Nulstil Crop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset LightZone Settings</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161921Z">
+        <seg>Nulstiller LightZone indstillinger</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +2790,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161648Z">
+        <seg>Nulstilling af LightZone indstillnger indebærer at LightZone vil fungere som ummidelbart efter installationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resetting LightZone Settings will restore LightZone to its factory settings.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161847Z">
+        <seg>Nulstilling af LightZone vil gendanne programmets oprindelige grund indstillinger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resetting your LightZone Settings may fix this.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161107Z">
+        <seg>Nulstilling af dine LightZone indstillinger vil måske løse problemet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resize To</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155735Z">
@@ -1646,10 +2822,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restoring Preferences</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155946Z">
+        <seg>Gendanner indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164148Z">
+        <seg>Gendan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revert the color selection</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202533Z">
         <seg>Fortryd farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165250Z">
+        <seg>Gendan...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,10 +2926,146 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save As...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160246Z">
+        <seg>Gem som...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Changes</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160237Z">
+        <seg>Gem ændringer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Format</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154919Z">
+        <seg>Gem format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161003Z">
+        <seg>Gem stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save To:</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100844Z">
         <seg>Gem til:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save as Style...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165400Z">
+        <seg>Gem som stil...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save changes to $1?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160231Z">
+        <seg>Gem ændringer til $1?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save changes to this document before closing?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155808Z">
+        <seg>Gem ændringer inden lukning?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save this image in a new format</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164436Z">
+        <seg>Gem dete billede i et nyt format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save this image to a file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164510Z">
+        <seg>Gem dette bille som en fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save to $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165145Z">
+        <seg>Gem i $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save without asking from now on.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160302Z">
+        <seg>Gem uden at spørge fra nu af.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving to $1...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162323Z">
+        <seg>Gemmer som $1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155612Z">
+        <seg>Gemmer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning $1...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160126Z">
+        <seg>Skanner $1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning Color Profiles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155935Z">
+        <seg>Skanner farve profiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning Saved Documents</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160006Z">
+        <seg>Skanner gemte dokumenter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160613Z">
+        <seg>Søg</seg>
       </tuv>
     </tu>
     <tu>
@@ -1774,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select an Image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160212Z">
+        <seg>Vælg et billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select only most recent version from each stack</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210950Z">
@@ -1802,6 +3146,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202605Z">
         <seg>Vælg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send $1 images from $2</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155001Z">
+        <seg>Send $1 billeder fra $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send 1 image from $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154950Z">
+        <seg>Send 1 et billede $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send To Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155033Z">
+        <seg>Send til mappe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Browser</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165547Z">
+        <seg>Vis stifinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Crop Tool</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154317Z">
@@ -1846,10 +3222,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Details</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160721Z">
+        <seg>Vis detaljer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Help for LightZone Send</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155055Z">
+        <seg>Vis hjælp til LighZone send</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Image Types</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213752Z">
         <seg>Vis filtype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show LightZone Help</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164714Z">
+        <seg>Vis LightZone Hjælp</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +3266,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155248Z">
         <seg>Vis Proof Tool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165151Z">
+        <seg>Vis områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,6 +3358,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show/Hide Folder Tree Pane</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164917Z">
+        <seg>Skjul/Vis mappe træ panelet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide History Pane</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164946Z">
+        <seg>Skjul/Vis historie panelet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165709Z">
+        <seg>Skjul/Vis Områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Styles Pane</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164907Z">
+        <seg>Skjul/Vis Stil panelet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Tool Pane</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164954Z">
+        <seg>Skjul/Vis værktøjs panelet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide metadata Info Pane</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164949Z">
+        <seg>Skjul/Vis metadata Info panelet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shutter Speed</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211203Z">
@@ -1990,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spline Regions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165727Z">
+        <seg>Spline områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spot</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212150Z">
@@ -2014,10 +3478,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting Logging</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155954Z">
+        <seg>Starter log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strength</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195836Z">
         <seg>Styrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Number $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160956Z">
+        <seg>Stil nummer $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style could not be applied</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154839Z">
+        <seg>Stilen kunne ikke tilføjes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162328Z">
+        <seg>Stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,10 +3550,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160534Z">
+        <seg>LightZone filen, "$1" kan ikke finde sin billed fil, "$2", men har fundet "$3" istedet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2".</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160448Z">
+        <seg>LightZone filen, "$1" kan ikke finde sin billed fil,"$2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Settings include things like:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161316Z">
+        <seg>Indstillinger omfatter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of memory LightZone should use</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161350Z">
+        <seg>Mængden af hukommelse til rådighed for LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was a problem checking for an update.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162106Z">
+        <seg>Der var et problem med at kontrollere for en opdatering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Style has no version number</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154747Z">
         <seg>Denne stil har intet verisions nummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can fix some problems, but loses your customizations and slows things down for a short while.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161741Z">
+        <seg>Dette kan løse nogel problemer, men dine indstillinger vil gå tabt og evt. sætte hastigheden ned en tid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,10 +3638,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thumbnail copies of your images</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161331Z">
+        <seg>Thumbnail kopier af dine billeder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tint</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200243Z">
         <seg>Farve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Folder:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155014Z">
+        <seg>Til folder:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,10 +3694,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162339Z">
+        <seg>Værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154759Z">
         <seg>Fortryd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Redo</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164214Z">
+        <seg>Fortryd, udfør igen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo last step</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164332Z">
+        <seg>Fortryd sidste handling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown error opening this file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155200Z">
+        <seg>Ukendt fejl ved åbning af denne fil</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,10 +3782,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160609Z">
+        <seg>Brug $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use This</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160604Z">
+        <seg>Brug denne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verifying Libraries</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155926Z">
+        <seg>Bekræfter system biblioteker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version size</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162054Z">
         <seg>Versions størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versions</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160850Z">
+        <seg>Versioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165802Z">
+        <seg>Se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What would you like to do?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160648Z">
+        <seg>Hvad vil du gøre?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,10 +3854,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window positions and sizes</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161419Z">
+        <seg>Vinduers placeringer og størrelser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to replace it?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155428Z">
+        <seg>Vil du gerne erstatte den?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to try resetting your LightZone Settings?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161129Z">
+        <seg>Vil du prøve at nulstille dine LightZone indstillinger?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yellow-Blue</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195906Z">
         <seg>Gul-blå</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155310Z">
+        <seg>Du kan åbne denne fil eller prøve at importere den som en LightZone stil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can turn it off in the LightZone Preferences.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160353Z">
+        <seg>Du kan ikke slå det fra i LightZone indstillinger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your computer needs to be connected to the internet to check for an update.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162208Z">
+        <seg>Computeren skal være forbundet til inter nettet for at kunne lede efter opdateringer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +3922,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155032Z">
         <seg>Zoner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165826Z">
+        <seg>Zoom ind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165831Z">
+        <seg>Zoom ud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom To Fit</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165842Z">
+        <seg>Zoom for at tilpasse</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +3986,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125908Z">
         <seg>inholdsfortegnelse/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>saved as $1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154814Z">
+        <seg>Gemt som $1</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
