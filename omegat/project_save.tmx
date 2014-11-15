@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application Managed Colors</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215306Z">
+        <seg>Program styrede farver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Preset</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201817Z">
@@ -510,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Center Image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215250Z">
+        <seg>Centrer billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Channel Mixer</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212107Z">
@@ -654,10 +670,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Handling</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215356Z">
+        <seg>Farve håndtering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Intensity</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195726Z">
         <seg>Farve intensitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Management</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215347Z">
+        <seg>Farve styring</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1042,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211026Z">
         <seg>Slet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Point</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215520Z">
+        <seg>Slet punkt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215446Z">
+        <seg>Højde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161144Z">
@@ -1594,6 +1642,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213800Z">
         <seg>Skjul filtype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Inner Region</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215506Z">
+        <seg>Skjul indre områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1810,6 +1866,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125844Z">
         <seg>Lær at benytte LightZone fra start til slut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215412Z">
+        <seg>Venstre</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page Setup...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215240Z">
+        <seg>Side opsætning...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste Region</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165508Z">
@@ -2478,10 +2550,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printer Managed Colors</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215315Z">
+        <seg>Printer styrede farver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printer Profile</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155300Z">
-        <seg>Printer Profil</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215404Z">
+        <seg>Printer profil</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,6 +3118,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scale</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215442Z">
+        <seg>Scaler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale to Fit</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215437Z">
+        <seg>Scaler til side</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaled Print Size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215423Z">
+        <seg>Skaleret print størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scanning $1...</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160126Z">
@@ -3242,6 +3346,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213752Z">
         <seg>Vis filtype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inner Region</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215514Z">
+        <seg>Vis indre område</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3902,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Luminosity Zones</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215208Z">
+        <seg>Brug lysstyrke zoner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use RGB Zones</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215154Z">
+        <seg>Brug RGB zoner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use This</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160604Z">
@@ -3854,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215450Z">
+        <seg>Bredde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window positions and sizes</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161419Z">
@@ -3914,6 +4050,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155053Z">
         <seg>Zone Mapper Zoner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Placement</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215225Z">
+        <seg>Zone Placering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Type Change</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215218Z">
+        <seg>Ændre zone type</seg>
       </tuv>
     </tu>
     <tu>
