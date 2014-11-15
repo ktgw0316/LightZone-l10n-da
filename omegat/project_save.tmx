@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a new Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215743Z">
+        <seg>Tilføj ny stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the color range</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200428Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202129Z">
         <seg>Fortryd farve valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel neutral color selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220208Z">
+        <seg>Stop neutralt farve valg</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,6 +862,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access Style "$1"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220024Z">
+        <seg>Kunne ikke få adgang til stilen "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't access Styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215832Z">
+        <seg>Kunne ikke få adgagn til stilen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155516Z">
@@ -950,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't read Style from "$1"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220019Z">
+        <seg>Kunne ikke læse stilen "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't rename "$1" to "$2"</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155752Z">
@@ -986,6 +1026,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155627Z">
         <seg>Kunne ikke gemme til $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't store Style "$1"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220039Z">
+        <seg>Kunne ikke gemme stilen "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't write Style "$1" to file "$2"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220104Z">
+        <seg>Kunne ikke skrive stil "$1" til fil "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,10 +1110,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Region</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215556Z">
+        <seg>Slet område</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Selected Regions</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165734Z">
         <seg>Slet valgte områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Style failed</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215915Z">
+        <seg>Sletning af stil lykkedes ikke</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit the list of Styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215801Z">
+        <seg>Rediger listen med stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the selected image</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164226Z">
@@ -1418,6 +1498,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202023Z">
         <seg>Udvid dette værktøj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215857Z">
+        <seg>Exporter Stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215852Z">
+        <seg>Exporter...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,10 +1854,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215846Z">
+        <seg>Importer stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import as Style</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155320Z">
         <seg>Importer som stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215839Z">
+        <seg>Importer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220133Z">
+        <seg>Adminstrer stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Styles...</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165418Z">
@@ -2274,6 +2394,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165409Z">
         <seg>Ingen stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Styles defined</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215927Z">
+        <seg>Ingen stile defineret</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region Change</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215606Z">
+        <seg>Skift område</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165648Z">
@@ -2754,6 +2890,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201735Z">
         <seg>Fjern fra stakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove this Style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215749Z">
+        <seg>Fjern denne stil</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset the rotation angle</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215641Z">
+        <seg>Nulstil rotations vinkelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161648Z">
@@ -2898,6 +3050,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155735Z">
         <seg>Ændr størrelse til</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Factory Styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215814Z">
+        <seg>Gendan fabriks indstillinger</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3146,38 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213557Z">
         <seg>Roter til højre og vælg næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215616Z">
+        <seg>Roter billedet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image (fine)</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215627Z">
+        <seg>Roter billedet (fine)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215711Z">
+        <seg>Roter billedet 90 grader med uret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees counterclockwise</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215656Z">
+        <seg>Roter billedet 90 grader mod uret</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a neutral color in the photo</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220150Z">
+        <seg>Vælg en neutral farve i billedet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160212Z">
@@ -3282,6 +3482,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200443Z">
         <seg>Sæt gennemsigtighed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the angle of rotation in degrees</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215727Z">
+        <seg>Sæt rotations vinklen i grader</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Style "$1" was written to "$2"</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220122Z">
+        <seg>Stil "$1" belv skrevet til "$2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Style Number $1</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160956Z">
@@ -3722,6 +3938,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154702Z">
         <seg>Denne fil har intet verisions nummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This program has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220245Z">
+        <seg> Programmet er løbet tør for hukommelse og lukkes ned.</seg>
       </tuv>
     </tu>
     <tu>
