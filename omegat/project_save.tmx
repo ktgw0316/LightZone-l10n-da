@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215745Z">
+        <seg>Sort punkt-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200336Z">
@@ -1902,6 +1910,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destination city</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215233Z">
+        <seg>Destinatins by</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination city code</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215900Z">
+        <seg>Destinations by kode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detail</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195924Z">
@@ -2846,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frame number</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215446Z">
+        <seg>Frame nummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195950Z">
@@ -3050,6 +3082,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155500Z">
         <seg>Historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home-town DST</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215347Z">
+        <seg>Hjembys destination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home-town city</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215145Z">
+        <seg>hjemby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home-town city code</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215847Z">
+        <seg>Hjem-town by kode</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview image data-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215913Z">
+        <seg>Preview billed data-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preview image length 2</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212822Z">
@@ -4634,6 +4698,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203355Z">
         <seg>Udskriv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print image matching</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215830Z">
+        <seg>Print billede matchning</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,6 +4834,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211128Z">
         <seg>Bedømmelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw image size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215502Z">
+        <seg>Raw billed størrelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -6734,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>White point-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215814Z">
+        <seg>Hvid punkts-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>White-balance table-X</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195438Z">
@@ -6770,6 +6858,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161419Z">
         <seg>Vinduers placeringer og størrelser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>World time location</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215128Z">
+        <seg>Tids zone</seg>
       </tuv>
     </tu>
     <tu>
@@ -6974,6 +7070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>auto daylight</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214958Z">
+        <seg>auto dagslys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto flash</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215008Z">
+        <seg>auto blitz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto focus</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T210118Z">
@@ -6986,6 +7098,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201747Z">
         <seg>auto høj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto shade</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215002Z">
+        <seg>auto skygge</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,6 +7258,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T210812Z">
         <seg>bund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-center</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214919Z">
+        <seg>bund-center</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-left</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214914Z">
+        <seg>bund-venstre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-right</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214929Z">
+        <seg>bund-højre</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>home town</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215132Z">
+        <seg>hjemby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hundred-thousandths</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203359Z">
@@ -7918,10 +8070,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>medium hard</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215054Z">
+        <seg>medium hård</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium high</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215039Z">
+        <seg>medium høj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium low</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215035Z">
+        <seg>medium lav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>medium pet</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214641Z">
         <seg>medium kæledyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium soft</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215050Z">
+        <seg>medium blød</seg>
       </tuv>
     </tu>
     <tu>
@@ -8202,6 +8386,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203802Z">
         <seg>portræt mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>preset</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215026Z">
+        <seg>forudindstillet</seg>
       </tuv>
     </tu>
     <tu>
@@ -8742,6 +8934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tungsten</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214951Z">
+        <seg>glødepære</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>uncalibrated</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195457Z">
@@ -8818,6 +9018,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203626Z">
         <seg>usikker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user-selected</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215015Z">
+        <seg>bruger-valgt</seg>
       </tuv>
     </tu>
     <tu>
