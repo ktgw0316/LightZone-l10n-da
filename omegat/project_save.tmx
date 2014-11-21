@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actual Pixels</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203705Z">
+        <seg>Aktuelle Pixels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165634Z">
@@ -510,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blur warning</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204439Z">
+        <seg>Slørings advarsel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring All to Front</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165620Z">
@@ -568,8 +584,8 @@
       <tuv lang="EN-US">
         <seg>Bulb duration</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201048Z">
-        <seg>Belysnings varighed</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204152Z">
+        <seg>Blitz varighed</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +618,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195308Z">
         <seg>Kamera indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera settings (old)</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204839Z">
+        <seg>Kamera indstillinger (gamle)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,8 +1232,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't print</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155702Z">
-        <seg>Kunne ikke printe</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203413Z">
+        <seg>Kunne ikke udskrive</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,10 +1342,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date/time</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204717Z">
+        <seg>Dato/klokkeslet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decoder table-X</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T200021Z">
-        <seg>Dekode table-X</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204110Z">
+        <seg>Dekod table-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -1520,8 +1552,8 @@
       <tuv lang="EN-US">
         <seg>Don't Reset</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161154Z">
-        <seg>Nulstil ikkeDon't Reset</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203447Z">
+        <seg>Nulstil ikke</seg>
       </tuv>
     </tu>
     <tu>
@@ -1806,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203548Z">
+        <seg>Ekspoter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Style</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215857Z">
@@ -1858,6 +1898,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203719Z">
         <seg>Eksponerings tid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure warning</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204513Z">
+        <seg>Eksponerings advarsel</seg>
       </tuv>
     </tu>
     <tu>
@@ -2038,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash fired</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204634Z">
+        <seg>Blitz benyttet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash info</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195951Z">
@@ -2088,16 +2144,16 @@
       <tuv lang="EN-US">
         <seg>Focal plane X size</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195246Z">
-        <seg>Focal plane X størrelse</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204032Z">
+        <seg>Focalplan X størrelse</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Focal plane Y size</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195252Z">
-        <seg>ocal plane Y størrelse</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204022Z">
+        <seg>Focalplan Y størrelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2186,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201427Z">
         <seg>Fokuserings mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus warning</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204459Z">
+        <seg>Fokus advarsel</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,8 +2432,8 @@
       <tuv lang="EN-US">
         <seg>ISO value</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T200338Z">
-        <seg>ISO vaærdi</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204127Z">
+        <seg>ISO værdi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,10 +2686,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JPG from raw-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204049Z">
+        <seg>JPG fra raw-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn to use LightZone from start to finish.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125844Z">
         <seg>Lær at benytte LightZone fra start til slut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learning Center</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203744Z">
+        <seg>Indlærings center</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,10 +2774,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Product Page</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203758Z">
+        <seg>LightZone produkt side</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Send</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154938Z">
-        <seg>LightZone send</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203335Z">
+        <seg>LightZone send til</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maker notes version</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204822Z">
+        <seg>Producent kommentarers version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Malformed LightZone file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155130Z">
@@ -2986,6 +3082,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211148Z">
         <seg>Sidste ændrings tidspunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Month/day created</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204545Z">
+        <seg>Oprette måned/dag</seg>
       </tuv>
     </tu>
     <tu>
@@ -3168,8 +3272,8 @@
       <tuv lang="EN-US">
         <seg>No internet connection</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162134Z">
-        <seg>Inger internet forbindelse</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203504Z">
+        <seg>Ingen internet forbindelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,6 +3314,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100529Z">
         <seg>Ikke nok hukommelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online Help</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203717Z">
+        <seg>Online Hjæl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online User Guide</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203731Z">
+        <seg>Online bruger guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,8 +3504,8 @@
       <tuv lang="EN-US">
         <seg>Paste Region Linked</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165523Z">
-        <seg>Indsæt område link</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203612Z">
+        <seg>Indsæt område som link</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203355Z">
+        <seg>Udskriv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print the selected image</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164744Z">
@@ -3528,8 +3656,8 @@
       <tuv lang="EN-US">
         <seg>Printing...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155653Z">
-        <seg>Printer...</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203402Z">
+        <seg>Udskriver...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4702,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutter mode</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204615Z">
+        <seg>Lukker mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shutter release method</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195007Z">
@@ -4730,6 +4866,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210137Z">
         <seg>Skub til højre for at øge thumbnail størrelsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slow sync</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204332Z">
+        <seg>Langsom synkronisering</seg>
       </tuv>
     </tu>
     <tu>
@@ -4832,8 +4976,8 @@
       <tuv lang="EN-US">
         <seg>Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162328Z">
-        <seg>Stile</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203524Z">
+        <seg>Stil</seg>
       </tuv>
     </tu>
     <tu>
@@ -5022,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time created</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204732Z">
+        <seg>Oprettelses klokkeslæt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tint</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200243Z">
@@ -5082,6 +5234,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162339Z">
         <seg>Værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total zoom</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204700Z">
+        <seg>Ialt zoom</seg>
       </tuv>
     </tu>
     <tu>
@@ -5310,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203624Z">
+        <seg>Vindue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window positions and sizes</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161419Z">
@@ -5330,6 +5498,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161129Z">
         <seg>Vil du prøve at nulstille dine LightZone indstillinger?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Year created</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204549Z">
+        <seg>Oprettet år</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,10 +5766,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>daylight color, fluorescent</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204242Z">
+        <seg>dagslys farve, fluorescent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>daylight fluorescent</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203939Z">
         <seg>dagslys fluorescent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>daywhite color, fluorescent</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204302Z">
+        <seg>dagwhite farve, fluorescent</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hard 2</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204307Z">
+        <seg>hård 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>high</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201708Z">
@@ -5810,6 +6010,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201555Z">
         <seg>nat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204642Z">
+        <seg>nej</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>warning</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204448Z">
+        <seg>advarsel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>white fluorescent</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T204017Z">
@@ -6154,6 +6370,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T194953Z">
         <seg>skrevet dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yes</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204646Z">
+        <seg>ja</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
