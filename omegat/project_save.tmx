@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aperture value</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213310Z">
+        <seg>Blænder værdi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application Managed Colors</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215306Z">
@@ -550,10 +558,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shot ICC profile-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212649Z">
+        <seg>Som optaget ICC profile-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shot neutral</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T205058Z">
         <seg>neutral som taget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shot pre-profile matrix-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212701Z">
+        <seg>Som optaget pre-profile matrix-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +734,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bayer green split</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212336Z">
+        <seg>Bayer grønt split</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Best quality scale</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212628Z">
+        <seg>Beste kvalitetes skalering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bezier Regions</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165721Z">
@@ -846,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brightness value</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213334Z">
+        <seg>Lysstyrke værdi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring All to Front</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165620Z">
@@ -942,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CFA pattern</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213105Z">
+        <seg>CFA mønster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CM1 (red enhance)</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T213438Z">
@@ -970,6 +1026,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T213519Z">
         <seg>CM4 (forstærk hudtoner)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calibration illuminant 1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212555Z">
+        <seg>Kallibrering oplysning 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calibration illuminant 2</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212600Z">
+        <seg>Kallibrering oplysning 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>Camera serial number</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203553Z">
-        <seg>Camera serie nummer</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212351Z">
+        <seg>Kamera serie nummer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1282,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100740Z">
         <seg>Vælg...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chroma blur radius</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212429Z">
+        <seg>Chroma slørings radius</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1542,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color matrix 1-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212312Z">
+        <seg>Farve matrix 1-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color matrix 2-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212321Z">
+        <seg>Farve matrix 2-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color matrix number</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212539Z">
@@ -1538,6 +1634,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195918Z">
         <seg>Billede bit dybde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Components configuration</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213250Z">
+        <seg>Komponent konfiguration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compressed bits per pixel</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213300Z">
+        <seg>Komprimerede bits per pixel</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,6 +1990,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current ICC profile-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212709Z">
+        <seg>Nuværende ICC profile-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current pre-profile matrix-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212717Z">
+        <seg>Nuværende pre-profile matrix-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160949Z">
@@ -1934,10 +2062,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date/time digitized</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213239Z">
+        <seg>Dato/klokkeslet digitaliseret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date/time original</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213229Z">
+        <seg>Dato/klokkeslet originalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decoder table-X</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204110Z">
         <seg>Dekod table-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default crop origin</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212234Z">
+        <seg>Standardindstilling for formindskelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default crop size</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212305Z">
+        <seg>Standardindstilling for størrelse efter formindskelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure bias value</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213352Z">
+        <seg>Eksponerings forskydning værdi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exposure bracket value</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T210500Z">
@@ -2578,6 +2746,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T202004Z">
         <seg>Eksponerings mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure program</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213130Z">
+        <seg>Eksponrings program</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inter-color profile</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213112Z">
+        <seg>Inter-color profil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal Error</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160829Z">
@@ -3754,6 +3938,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195610Z">
         <seg>JPEG (ikke-quantiserende)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG interchange format length-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212911Z">
+        <seg>JPEG udskifteligt format længde-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG interchange format-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212855Z">
+        <seg>JPEG udskifteligt format-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linear response limit</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212347Z">
+        <seg>Lineær respons grænse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Classes</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160039Z">
@@ -4166,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maker note safety</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212507Z">
+        <seg>Producent notat sikkerhed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maker notes version</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204822Z">
@@ -4210,6 +4426,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T205230Z">
         <seg>Maskerede områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max aperture value</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213422Z">
+        <seg>Højeste blænde værdi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw data unique ID-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212637Z">
+        <seg>Raw data unikke ID-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw image size</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215502Z">
@@ -5274,6 +5506,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165648Z">
         <seg>Områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related image file format</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213027Z">
+        <seg>Dertilhørende billed fil format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related image length</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213056Z">
+        <seg>Dertilhørende billed længde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related image width</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213034Z">
+        <seg>Dertilhørende billed bredde</seg>
       </tuv>
     </tu>
     <tu>
@@ -6526,6 +6782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spectral sensitivity</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213206Z">
+        <seg>Spectral følsomhed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spline Regions</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165727Z">
@@ -6632,8 +6896,16 @@
       <tuv lang="EN-US">
         <seg>Subfile type (new)</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203103Z">
-        <seg>Subfil type (ny)</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212057Z">
+        <seg>Underfil type (ny)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject distance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213441Z">
+        <seg>Subject afstand</seg>
       </tuv>
     </tu>
     <tu>
@@ -6878,6 +7150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile byte counts</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212829Z">
+        <seg>Flise bit antal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile byte counts-X</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T204541Z">
@@ -6890,6 +7170,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T204517Z">
         <seg>Flise længde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile offsets</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212814Z">
+        <seg>Flise forskydning</seg>
       </tuv>
     </tu>
     <tu>
@@ -7390,6 +7678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>YCbCr coefficients</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212918Z">
+        <seg>YCbCr koefficienter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Year created</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204549Z">
@@ -7542,6 +7838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>action program</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213156Z">
+        <seg>sports program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aperture priority</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203729Z">
@@ -7682,6 +7986,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212101Z">
         <seg>tilgængligt lys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>average</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213537Z">
+        <seg>gennemsnit</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,6 +8190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>center-weighted average</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213528Z">
+        <seg>center-vægtet gennemsnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>children</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T213923Z">
@@ -7944,8 +8264,8 @@
       <tuv lang="EN-US">
         <seg>cloudy weather</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203927Z">
-        <seg>skyet vejfr</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213633Z">
+        <seg>skyet vejr</seg>
       </tuv>
     </tu>
     <tu>
@@ -8008,8 +8328,8 @@
       <tuv lang="EN-US">
         <seg>cool white fluorescent</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T204012Z">
-        <seg>kold hvid fluorescent</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213620Z">
+        <seg>kold hvid fluoreserende</seg>
       </tuv>
     </tu>
     <tu>
@@ -8048,8 +8368,8 @@
       <tuv lang="EN-US">
         <seg>day white fluorescent</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203958Z">
-        <seg>day hvid fluorescent</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213615Z">
+        <seg>dag hvid fluoreserende</seg>
       </tuv>
     </tu>
     <tu>
@@ -8072,8 +8392,8 @@
       <tuv lang="EN-US">
         <seg>daylight fluorescent</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203939Z">
-        <seg>dagslys fluorescent</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213606Z">
+        <seg>dagslys fluorescerende</seg>
       </tuv>
     </tu>
     <tu>
@@ -8342,6 +8662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fluorescent</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213703Z">
+        <seg>fluorescerende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>food</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214325Z">
@@ -8450,6 +8778,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203306Z">
         <seg>hundreder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incandescent</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213556Z">
+        <seg>stearinlys</seg>
       </tuv>
     </tu>
     <tu>
@@ -8586,6 +8922,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201655Z">
         <seg>lav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>low saturation</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213754Z">
+        <seg>lav mætning</seg>
       </tuv>
     </tu>
     <tu>
@@ -8770,6 +9114,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201109Z">
         <seg>ingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>normal program</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213145Z">
+        <seg>normalt program</seg>
       </tuv>
     </tu>
     <tu>
@@ -9606,6 +9958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>undefined</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213137Z">
+        <seg>ikke defienret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>underwater</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214652Z">
@@ -9736,8 +10096,8 @@
       <tuv lang="EN-US">
         <seg>white fluorescent</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T204017Z">
-        <seg>hvid fluorescent</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213626Z">
+        <seg>hvid fluorescerende</seg>
       </tuv>
     </tu>
     <tu>
