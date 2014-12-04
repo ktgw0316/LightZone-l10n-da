@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Options</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200020Z">
+        <seg>Avancerede indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202213Z">
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T211814Z">
         <seg>Kamera type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't Launch LightZone</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200831Z">
+        <seg>Kan ikke starte LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -2904,8 +2920,8 @@
       <tuv lang="EN-US">
         <seg>File time</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162147Z">
-        <seg>Fil tidspunkte</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200107Z">
+        <seg>Fil opretelses tidspunkt</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,6 +3394,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215506Z">
         <seg>Skjul indre områder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Inspectors</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200814Z">
+        <seg>Skjul Inspectors</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has examined /proc/cpuinfo on this computer and found "$1", with no SSE2 flag set.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T201046Z">
+        <seg>LightZone har søgt /proc/cpuinfo på denne computer og har fundet "$1", uden SSE2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has run out of memory and will now shut down.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160714Z">
@@ -4242,6 +4274,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T194240Z">
         <seg>LightZone ikon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone must now quit.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T201056Z">
+        <seg>LightZone lukkes nu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone on Linux requires a CPU supporting the SSE2 instruction set.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200911Z">
+        <seg>LightZone på Linux kræver en CPU der SSE2 instruktions sættet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4706,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165231Z">
         <seg>Nyt vindue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Newer Java required</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T201204Z">
+        <seg>Nyere verision af java påkrævet</seg>
       </tuv>
     </tu>
     <tu>
@@ -5672,8 +5728,8 @@
       <tuv lang="EN-US">
         <seg>Reset Crop</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154507Z">
-        <seg>Nulstil Crop</seg>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T195959Z">
+        <seg>Nulstil reduktion</seg>
       </tuv>
     </tu>
     <tu>
@@ -6166,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Software Update to get the latest Java from Apple.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T201240Z">
+        <seg>Vælg opdatering af software for at få den nyeste java fra Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a Folder</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213926Z">
@@ -6514,6 +6578,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215514Z">
         <seg>Vis indre område</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inspectors</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200806Z">
+        <seg>Vis Inspectors</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,6 +7182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This requirement was introduced with version 2.4, in May 2007.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200952Z">
+        <seg>Dette krav blev introduceret med verision 2.4 i naj 2007 2.4, in May 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threshold</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200231Z">
@@ -7234,6 +7314,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155014Z">
         <seg>Til folder:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T201141Z">
+        <seg>For at lære mere om SSE2 og de CPUer der understøtter det, se</seg>
       </tuv>
     </tu>
     <tu>
