@@ -8670,6 +8670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>disasters &amp; accidents</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211339Z" creationid="larshenrikoern" creationdate="20141218T211339Z">
+        <seg>katastrofer &amp; ulykker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>distant</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T204123Z">
@@ -8726,6 +8734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>earthquake</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211348Z" creationid="larshenrikoern" creationdate="20141218T211348Z">
+        <seg>jordskælv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>easy</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T202007Z">
@@ -8738,6 +8754,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205045Z">
         <seg>økonomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>economy, business, &amp; finance</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211530Z" creationid="larshenrikoern" creationdate="20141218T211530Z">
+        <seg>økonomi, forretning, &amp; finans</seg>
       </tuv>
     </tu>
     <tu>
@@ -8870,6 +8894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fire</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211354Z" creationid="larshenrikoern" creationdate="20141218T211354Z">
+        <seg>ild</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fired</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T210011Z">
@@ -8906,6 +8938,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T202924Z">
         <seg>vend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flood</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211401Z" creationid="larshenrikoern" creationdate="20141218T211401Z">
+        <seg>oversvømmelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -9090,6 +9130,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T211948Z">
         <seg>inden dørs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>industrial accident</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211412Z" creationid="larshenrikoern" creationdate="20141218T211412Z">
+        <seg>industrielt uheld</seg>
       </tuv>
     </tu>
     <tu>
@@ -9318,6 +9366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>meteorological disaster</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211424Z" creationid="larshenrikoern" creationdate="20141218T211424Z">
+        <seg>meteorologisk katastrofe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>music</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211153Z" creationid="larshenrikoern" creationdate="20141218T211153Z">
@@ -9466,6 +9522,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T213257Z">
         <seg>ikke klar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nuclear accident</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211433Z" creationid="larshenrikoern" creationdate="20141218T211433Z">
+        <seg>atomar hændelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -9646,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>pollution</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211440Z" creationid="larshenrikoern" creationdate="20141218T211440Z">
+        <seg>forurenning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>portrait</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201610Z">
@@ -9666,6 +9738,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215026Z">
         <seg>forudindstillet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>prison</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211322Z" creationid="larshenrikoern" creationdate="20141218T211322Z">
+        <seg>fængsel</seg>
       </tuv>
     </tu>
     <tu>
@@ -10318,6 +10398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>transport accident</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211458Z" creationid="larshenrikoern" creationdate="20141218T211458Z">
+        <seg>færdsels ulykke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tungsten</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214951Z">
@@ -10474,6 +10562,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205018Z">
         <seg>Klare farver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>volcanic eruption</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211510Z" creationid="larshenrikoern" creationdate="20141218T211510Z">
+        <seg>vulkan udbrud</seg>
       </tuv>
     </tu>
     <tu>
