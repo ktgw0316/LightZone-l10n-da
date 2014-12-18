@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color info (D30)</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211721Z" creationid="larshenrikoern" creationdate="20141218T211721Z">
+        <seg>Farve info (D30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color map</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203520Z">
@@ -3214,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Focal type</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211742Z" creationid="larshenrikoern" creationdate="20141218T211742Z">
+        <seg>Fokal type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focal units per mm</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T202245Z">
@@ -3738,6 +3754,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195739Z">
         <seg>Billede info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image number</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211703Z" creationid="larshenrikoern" creationdate="20141218T211703Z">
+        <seg>Billede nummer</seg>
       </tuv>
     </tu>
     <tu>
@@ -5238,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Picture style</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212025Z" creationid="larshenrikoern" creationdate="20141218T212025Z">
+        <seg>Billed stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixel Sampler</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155226Z">
@@ -6430,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensor blue level</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211952Z" creationid="larshenrikoern" creationdate="20141218T211952Z">
+        <seg>Sensor blåt niveau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensor bottom border</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T202446Z">
@@ -6458,6 +6498,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T211345Z">
         <seg>Billeds ensor pixel størelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor red level</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211941Z" creationid="larshenrikoern" creationdate="20141218T211941Z">
+        <seg>Sensor rødt niveau</seg>
       </tuv>
     </tu>
     <tu>
@@ -7814,6 +7862,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>White-balance blue</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212016Z" creationid="larshenrikoern" creationdate="20141218T212016Z">
+        <seg>Hvid-balance blå</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White-balance red</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212005Z" creationid="larshenrikoern" creationdate="20141218T212005Z">
+        <seg>Hvitd-balance rød</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>White-balance table-X</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195438Z">
@@ -8062,6 +8126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>agriculture</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211538Z" creationid="larshenrikoern" creationdate="20141218T211538Z">
+        <seg>landbrug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aperture priority</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203729Z">
@@ -8270,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>biotechnology</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211638Z" creationid="larshenrikoern" creationdate="20141218T211638Z">
+        <seg>biotekhnologi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>black &amp; qhite</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214208Z">
@@ -8410,6 +8490,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213528Z">
         <seg>center-vægtet gennemsnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>chemicals</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211612Z" creationid="larshenrikoern" creationdate="20141218T211612Z">
+        <seg>kemikalier</seg>
       </tuv>
     </tu>
     <tu>
@@ -8662,6 +8750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>depth-of-field</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212225Z" creationid="larshenrikoern" creationdate="20141218T212225Z">
+        <seg>skarpheds dybde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>digital image stabilization</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212228Z">
@@ -8830,6 +8926,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>external 1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212053Z" creationid="larshenrikoern" creationdate="20141218T211831Z">
+        <seg>ekstern 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>external 2</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212056Z" creationid="larshenrikoern" creationdate="20141218T211827Z">
+        <seg>eksternl 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>external 3</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212100Z" creationid="larshenrikoern" creationdate="20141218T211835Z">
+        <seg>ekstern 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>external flash</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201339Z">
@@ -8918,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fishing industry</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211549Z" creationid="larshenrikoern" creationdate="20141218T211549Z">
+        <seg>fiske industri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>flash</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T200602Z">
@@ -8970,6 +9098,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214325Z">
         <seg>mad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forestry &amp; timber</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211606Z" creationid="larshenrikoern" creationdate="20141218T211606Z">
+        <seg>skovdrift &amp; tømmer</seg>
       </tuv>
     </tu>
     <tu>
@@ -9074,6 +9210,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201708Z">
         <seg>høj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>highest</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211808Z" creationid="larshenrikoern" creationdate="20141218T211808Z">
+        <seg>højeste</seg>
       </tuv>
     </tu>
     <tu>
@@ -9302,6 +9446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lowest</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211751Z" creationid="larshenrikoern" creationdate="20141218T211751Z">
+        <seg>laveste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>macro</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201121Z">
@@ -9350,6 +9502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>medium movie</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212137Z" creationid="larshenrikoern" creationdate="20141218T212137Z">
+        <seg>medium film</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>medium pet</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T214641Z">
@@ -9370,6 +9530,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211424Z" creationid="larshenrikoern" creationdate="20141218T211424Z">
         <seg>meteorologisk katastrofe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>monochrome</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211821Z" creationid="larshenrikoern" creationdate="20141218T211821Z">
+        <seg>monokrom</seg>
       </tuv>
     </tu>
     <tu>
@@ -9490,6 +9658,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201109Z">
         <seg>ingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>normal movie</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212123Z" creationid="larshenrikoern" creationdate="20141218T212123Z">
+        <seg>normal film</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,6 +9910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>postcard</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212131Z" creationid="larshenrikoern" creationdate="20141218T212131Z">
+        <seg>postkort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>preset</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215026Z">
@@ -9942,6 +10126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>see EXIF ISO</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212157Z" creationid="larshenrikoern" creationdate="20141218T212157Z">
+        <seg>se EXIF ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>self portrait</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T211943Z">
@@ -10130,6 +10322,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T201641Z">
         <seg>lille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>small movie</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212149Z" creationid="larshenrikoern" creationdate="20141218T212149Z">
+        <seg>smal film</seg>
       </tuv>
     </tu>
     <tu>
@@ -10530,6 +10730,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T204726Z">
         <seg>unspecificeret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user defined 1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211928Z" creationid="larshenrikoern" creationdate="20141218T211928Z">
+        <seg>bruger defineret 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user defined 2</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212042Z" creationid="larshenrikoern" creationdate="20141218T212042Z">
+        <seg>bruger defineret 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user defined 3</seg>
+      </tuv>
+      <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T212047Z" creationid="larshenrikoern" creationdate="20141218T212047Z">
+        <seg>bruger defineret 3</seg>
       </tuv>
     </tu>
     <tu>
