@@ -6318,6 +6318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See also:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211007Z" creationid="lars" creationdate="20150101T211007Z">
+        <seg>Se også:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211023Z">
@@ -7490,6 +7498,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155014Z">
         <seg>Til folder:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To find zones on your photo:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211042Z" creationid="lars" creationdate="20150101T211042Z">
+        <seg>for at finde zones i dit billede</seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,6 +9266,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203306Z">
         <seg>hundreder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-ZoneMapper.png</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211105Z" creationid="lars" creationdate="20150101T211105Z">
+        <seg>billeder/Knap-ZoneMapper.png</seg>
       </tuv>
     </tu>
     <tu>
