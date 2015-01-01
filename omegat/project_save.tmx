@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 of 8</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211538Z" creationid="lars" creationdate="20150101T211538Z">
+        <seg>1 af 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3000K (tungsten light)</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T213640Z">
@@ -4006,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction to the ZoneMapper, a tool for adjusting the brightness and contrast of your photo.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211530Z" creationid="lars" creationdate="20150101T211530Z">
+        <seg>Introduktion til ZoneMapper, et værktøj til justering af lysstyrke og kontrast i dit billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100519Z">
@@ -7306,6 +7322,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T211819Z">
         <seg>Tekst info-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;ZoneMapper&lt;/b0&gt; tool allows you to adjust the brightness and contrast of all or parts of your photo for any combination of the highlights, midtones, or shadows.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211755Z" creationid="lars" creationdate="20150101T211755Z">
+        <seg>&lt;b0&gt;ZoneMapper&lt;/b0&gt; værktøjet gør det muligt at justere lysstyrke og kontrast for alle dele af dit billede, til enhver kombination af højlys, mellemtone og skygge.</seg>
       </tuv>
     </tu>
     <tu>
