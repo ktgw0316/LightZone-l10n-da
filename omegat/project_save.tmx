@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new ZoneMapper tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211336Z" creationid="lars" creationdate="20150101T211336Z">
+        <seg>(Et nyt ZoneMapper vil fremkomme i toppen af &lt;a1&gt;Værktøjs stakken&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155212Z">
@@ -370,6 +378,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200428Z">
         <seg>Juster toneomfanget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting contrast</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211425Z" creationid="lars" creationdate="20150101T211425Z">
+        <seg>Justering af kontrast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting exposure</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211439Z" creationid="lars" creationdate="20150101T211439Z">
+        <seg>Justere eksponering</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1370,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154732Z">
         <seg>Klik på formindsk knappen for at udføre handlingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the ZoneMapper tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211225Z" creationid="lars" creationdate="20150101T211225Z">
+        <seg>Klik på ZoneMapper værktøjs knappen i &lt;a0&gt;værktøjs linien&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7302,6 +7334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Zone System</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211346Z" creationid="lars" creationdate="20150101T211346Z">
+        <seg>Zone Systemet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The amount of memory LightZone should use</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161350Z">
@@ -7554,6 +7594,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201532Z">
         <seg>Værktøjs indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool anatomy</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211357Z" creationid="lars" creationdate="20150101T211357Z">
+        <seg>Værktøjs opbygning</seg>
       </tuv>
     </tu>
     <tu>
