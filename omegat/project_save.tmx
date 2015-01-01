@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting brightness</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T212055Z" creationid="lars" creationdate="20150101T212055Z">
+        <seg>Adjusting lysstyken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting contrast</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T211425Z" creationid="lars" creationdate="20150101T211425Z">
@@ -3050,6 +3058,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T203810Z">
         <seg>Udfyldnings rækkefølge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding zones in your photo</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T212006Z" creationid="lars" creationdate="20150101T212006Z">
+        <seg>Finde zoner i dit billede</seg>
       </tuv>
     </tu>
     <tu>
@@ -7366,6 +7382,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneMapper is based on the &lt;a0&gt;Zone System&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211949Z" creationid="lars" creationdate="20150101T211949Z">
+        <seg>ZoneMappe værktøjet er baseret på &lt;a0&gt;Zone Systemet&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ZoneMapper tool shows 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T211921Z" creationid="lars" creationdate="20150101T211921Z">
+        <seg>ZoneMapper værktøjet viser 16 gråtone zoner, hver afvigende med 50% lysstyrke eller et halvt f-stop til det næste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The amount of memory LightZone should use</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161350Z">
@@ -7578,6 +7610,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T201141Z">
         <seg>For at lære mere om SSE2 og de CPUer der understøtter det, se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn more about working with the ZoneMapper, click a link below.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T212040Z" creationid="lars" creationdate="20150101T212040Z">
+        <seg>For at lære mere om at benytter ZoneMapper værktøjet klik neden for.</seg>
       </tuv>
     </tu>
     <tu>
