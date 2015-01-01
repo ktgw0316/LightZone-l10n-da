@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting the black point</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T212119Z" creationid="lars" creationdate="20150101T212119Z">
+        <seg>Justering af sort punkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Options</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200020Z">
@@ -4166,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T212213Z" creationid="lars" creationdate="20150101T212213Z">
+        <seg>Keyboard genveje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keywords</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T202942Z">
@@ -4562,6 +4578,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200136Z">
         <seg>Lysstyrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luminosity vs. RGB adjustments</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150101T212159Z" creationid="lars" creationdate="20150101T212159Z">
+        <seg>Lysstyrke vs. RGB justringer</seg>
       </tuv>
     </tu>
     <tu>
