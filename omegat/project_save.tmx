@@ -1440,8 +1440,8 @@
       <tuv lang="EN-US">
         <seg>Collapse image stacks</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164311Z">
-        <seg>Sammenfold billed stk</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211651Z">
+        <seg>Sammenfold billed stak</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,16 +3264,16 @@
       <tuv lang="EN-US">
         <seg>Focal plane X size</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204032Z">
-        <seg>Focalplan X størrelse</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211905Z">
+        <seg>Fokalplan X størrelse</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Focal plane Y size</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204022Z">
-        <seg>Focalplan Y størrelse</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211908Z">
+        <seg>Fokalplan Y størrelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -4128,16 +4128,16 @@
       <tuv lang="EN-US">
         <seg>JPEG (lossy/non-quantization)</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195605Z">
-        <seg>JPEG (tabsfri/non-quantiserende)</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211933Z">
+        <seg>JPEG (tabsfri/ikke-kvantiserende)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>JPEG (non-quantization)</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195610Z">
-        <seg>JPEG (ikke-quantiserende)</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211924Z">
+        <seg>JPEG (ikke-kvantiserende)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,8 +5064,8 @@
       <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203717Z">
-        <seg>Online Hjæl</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211815Z">
+        <seg>Online Hjælp</seg>
       </tuv>
     </tu>
     <tu>
@@ -10352,8 +10352,8 @@
       <tuv lang="EN-US">
         <seg>shutter priority</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203740Z">
-        <seg>lukke prioritet</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211856Z">
+        <seg>lukketids prioritet</seg>
       </tuv>
     </tu>
     <tu>
