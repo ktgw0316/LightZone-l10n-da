@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Burn</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212717Z" creationid="lars" creationdate="20150102T212717Z">
+        <seg>Brænd farve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Cast</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212048Z">
@@ -1474,6 +1482,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162229Z">
         <seg>Skift farve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Dodge</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212705Z" creationid="lars" creationdate="20150102T212705Z">
+        <seg>Undgå farve</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Difference</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212607Z" creationid="lars" creationdate="20150102T212607Z">
+        <seg>Forskel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital creation date</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T210939Z" creationid="larshenrikoern" creationdate="20141218T210913Z">
@@ -2786,6 +2810,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100502Z">
         <seg>Fejl i læsning af fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusion</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212621Z" creationid="lars" creationdate="20150102T212621Z">
+        <seg>Udelukkelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3554,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T204436Z">
         <seg>Halvtone anfydning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Light</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212637Z" creationid="lars" creationdate="20150102T212637Z">
+        <seg>Hårdt lys</seg>
       </tuv>
     </tu>
     <tu>
@@ -4550,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighten</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212601Z" creationid="lars" creationdate="20150102T212601Z">
+        <seg>Gør lysere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linear response limit</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212347Z">
@@ -4758,10 +4806,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mid+Hilights</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212807Z" creationid="lars" creationdate="20150102T212807Z">
+        <seg>Mellem+Højlys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Midpoint</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195914Z">
         <seg>Midtpunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midtones</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212813Z" creationid="lars" creationdate="20150102T212813Z">
+        <seg>Mellemtoner</seg>
       </tuv>
     </tu>
     <tu>
@@ -4930,6 +4994,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212937Z">
         <seg>Nær linsen trin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negation</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212613Z" creationid="lars" creationdate="20150102T212613Z">
+        <seg>Omvending</seg>
       </tuv>
     </tu>
     <tu>
@@ -5258,6 +5330,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154908Z">
         <seg>Gem i:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overlay</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212630Z" creationid="lars" creationdate="20150102T212630Z">
+        <seg>Læg over</seg>
       </tuv>
     </tu>
     <tu>
@@ -7122,6 +7202,30 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T204804Z">
         <seg>Smin sampling værdi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Burn</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212747Z" creationid="lars" creationdate="20150102T212747Z">
+        <seg>Brænd blødt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Dodge</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212739Z" creationid="lars" creationdate="20150102T212739Z">
+        <seg>Undgå blødt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Light</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212646Z" creationid="lars" creationdate="20150102T212646Z">
+        <seg>Blødt lys</seg>
       </tuv>
     </tu>
     <tu>
