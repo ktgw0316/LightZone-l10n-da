@@ -560,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>Apply Style to the selected image</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164258Z">
-        <seg>Tiløj stil til det valgte billede</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211646Z">
+        <seg>Tiløj stilen til det valgte billede</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,40 +4368,40 @@
       <tuv lang="EN-US">
         <seg>LightZone Settings Error</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162015Z">
-        <seg>LightZone Indstillinger fejl</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211556Z">
+        <seg>Fejl i LightZone Indstillinger</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone Settings Help</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161805Z">
-        <seg>Hjælp tilLightZone indstillinger</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211518Z">
+        <seg>Hjælp til LightZone indstillinger</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone Settings couldn't be reset</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162004Z">
-        <seg>LighZone kunne ikke nulstiles</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211536Z">
+        <seg>LighZones kunne ikke nulstiles</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone Settings remember what was going on the last time you used LightZone.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161305Z">
-        <seg>LightZone indstillenger husker hvad der foregik sidst su benyttede programmet.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211434Z">
+        <seg>LightZone indstillinger husker hvad der foregik sidst du benyttede programmet.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone Settings were successfully reset.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161950Z">
-        <seg>LightZone indstillinger blev nulstillet.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211532Z">
+        <seg>LightZones indstillinger blev nulstillet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5952,8 +5952,8 @@
       <tuv lang="EN-US">
         <seg>Reset LightZone Settings</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161921Z">
-        <seg>Nulstiller LightZone indstillinger</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211528Z">
+        <seg>Nulstiller LightZones indstillinger</seg>
       </tuv>
     </tu>
     <tu>
@@ -6000,8 +6000,8 @@
       <tuv lang="EN-US">
         <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161648Z">
-        <seg>Nulstilling af LightZone indstillnger indebærer at LightZone vil fungere som ummidelbart efter installationen.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211510Z">
+        <seg>Nulstilling af LightZone indstillnger indebærer at LightZone vil fungere som ummidelbart efter en ny installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8152,8 +8152,8 @@
       <tuv lang="EN-US">
         <seg>Your computer needs to be connected to the internet to check for an update.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162208Z">
-        <seg>Computeren skal være forbundet til inter nettet for at kunne lede efter opdateringer.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211619Z">
+        <seg>Computeren skal være forbundet til internettet for at kunne lede efter opdateringer.</seg>
       </tuv>
     </tu>
     <tu>
