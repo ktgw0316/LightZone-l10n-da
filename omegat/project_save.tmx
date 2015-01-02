@@ -728,8 +728,8 @@
       <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160322Z">
-        <seg>Auto-save er nu startet.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211305Z">
+        <seg>Auto-save er startet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1840,8 +1840,8 @@
       <tuv lang="EN-US">
         <seg>Converting...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155710Z">
-        <seg>Konvertering...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211146Z">
+        <seg>Konverterer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,8 +2480,8 @@
       <tuv lang="EN-US">
         <seg>Don't ask again</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155911Z">
-        <seg>Spørg ikke igen</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211205Z">
+        <seg>Spørg mig ikke igen</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,16 +4096,16 @@
       <tuv lang="EN-US">
         <seg>Is this a LightZone Style file?</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150102T211021Z">
-        <seg>Er dette en LightZone fil?</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211055Z">
+        <seg>Er dette en LightZone stil fil?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Is this right?</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160544Z">
-        <seg>Er dette korrekt?</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211341Z">
+        <seg>Er dette rigtigt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7376,8 +7376,8 @@
       <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160534Z">
-        <seg>LightZone filen, "$1" kan ikke finde sin billed fil, "$2", men har fundet "$3" istedet.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211332Z">
+        <seg>LightZone filen, "$1" kan ikke finde sin billed fil, "$2", men har fundet "$3" i stedet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8144,8 +8144,8 @@
       <tuv lang="EN-US">
         <seg>You can turn it off in the LightZone Preferences.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160353Z">
-        <seg>Du kan ikke slå det fra i LightZone indstillinger.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211317Z">
+        <seg>Du kan slå det fra i LightZones indstillinger.</seg>
       </tuv>
     </tu>
     <tu>
