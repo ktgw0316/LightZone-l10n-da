@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212500Z" creationid="lars" creationdate="20150102T212500Z">
+        <seg>Gennemsnitlig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base ISO</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195145Z">
@@ -870,14 +878,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Blend</seg>
-      </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200336Z">
-        <seg>Blanding</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Blend Mode Change</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200406Z">
@@ -888,8 +888,8 @@
       <tuv lang="EN-US">
         <seg>Blending Mode</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200511Z">
-        <seg>Blande måde</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212433Z">
+        <seg>Blanding måde</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2154,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195849Z">
         <seg>Cyan-rød</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Darken</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212554Z" creationid="lars" creationdate="20150102T212554Z">
+        <seg>Gør mørkere</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiply</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212523Z" creationid="lars" creationdate="20150102T212523Z">
+        <seg>Multiplicer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Computer</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211056Z">
@@ -6430,6 +6446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212546Z" creationid="lars" creationdate="20150102T212546Z">
+        <seg>Skærm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160613Z">
@@ -7640,8 +7664,8 @@
       <tuv lang="EN-US">
         <seg>Tint</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200243Z">
-        <seg>Farve</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212358Z">
+        <seg>Farve mætning</seg>
       </tuv>
     </tu>
     <tu>
@@ -7682,14 +7706,6 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T212040Z" creationid="lars" creationdate="20150101T212040Z">
         <seg>For at lære mere om at benytter ZoneMapper værktøjet klik neden for.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tolerance</seg>
-      </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200150Z">
-        <seg>tolerance</seg>
       </tuv>
     </tu>
     <tu>
