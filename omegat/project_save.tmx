@@ -1336,8 +1336,8 @@
       <tuv lang="EN-US">
         <seg>Choose the browser sort criteria</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T210703Z">
-        <seg>Vælg søge rækkefølge</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212107Z">
+        <seg>Vælg stifinder søge rækkefølge</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +1986,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155645Z">
         <seg>Kunner ikke gennemføre at gemme direkte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212159Z" creationid="lars" creationdate="20150102T212159Z">
+        <seg>Kunne ikke flytte $1 til papirkurven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4294,6 +4302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lift Tools</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212120Z" creationid="lars" creationdate="20150102T212120Z">
+        <seg>Lift Værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light condition</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212402Z">
@@ -4720,8 +4736,8 @@
       <tuv lang="EN-US">
         <seg>Measured info</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T200315Z">
-        <seg>Optaget info</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212008Z">
+        <seg>Målt info</seg>
       </tuv>
     </tu>
     <tu>
@@ -5666,6 +5682,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215502Z">
         <seg>Raw billed størrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really delete these files?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212222Z" creationid="lars" creationdate="20150102T212222Z">
+        <seg>Slet disse filer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really delete this file?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T212212Z" creationid="lars" creationdate="20150102T212212Z">
+        <seg>Slet denne fil?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,6 +7554,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T194710Z">
         <seg>Thumbnail fil navn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail image-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150102T211957Z" creationid="lars" creationdate="20150102T211957Z">
+        <seg>Thumbnail billede-X</seg>
       </tuv>
     </tu>
     <tu>
