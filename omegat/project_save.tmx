@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point compensation</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210319Z" creationid="lars" creationdate="20150103T210319Z">
+        <seg>Sort punkts kompensation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black point-X</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215745Z">
@@ -2338,6 +2346,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195939Z">
         <seg>Dybde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of black point compensation.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210250Z" creationid="lars" creationdate="20150103T210250Z">
+        <seg>Beskrivelse af sort punkts kompensation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4584,8 +4600,8 @@
       <tuv lang="EN-US">
         <seg>LightZone: Black Point Compensation</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150103T210229Z" creationid="lars" creationdate="20150103T210229Z">
-        <seg>LghtZone: sort punkts kompensation</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210305Z" creationid="lars" creationdate="20150103T210229Z">
+        <seg>LightZone: sort punkts kompensation</seg>
       </tuv>
     </tu>
     <tu>
