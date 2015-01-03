@@ -1912,8 +1912,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't access Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215832Z">
-        <seg>Kunne ikke få adgagn til stilen</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205824Z">
+        <seg>Kunne ikke få adgang til stilen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2880,16 +2880,16 @@
       <tuv lang="EN-US">
         <seg>Export Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215857Z">
-        <seg>Exporter Stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205817Z">
+        <seg>Eksporter Stil</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Export...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215852Z">
-        <seg>Exporter...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205813Z">
+        <seg>Eksporter...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3802,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155842Z">
         <seg>Hvis du ikke gemer vil lle ændringer gå tabt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Info</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205848Z" creationid="lars" creationdate="20150103T205848Z">
+        <seg>Billed info</seg>
       </tuv>
     </tu>
     <tu>
@@ -5646,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205700Z" creationid="lars" creationdate="20150103T205700Z">
+        <seg>Udskriv...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printer Managed Colors</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215315Z">
@@ -7016,16 +7032,16 @@
       <tuv lang="EN-US">
         <seg>Show in Explorer</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213630Z">
-        <seg>Vis i stifinder</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205753Z">
+        <seg>Vis i filhåndtering</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Show in Finder</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213646Z">
-        <seg>Vis i stifinder</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205802Z">
+        <seg>Vis i filhåndtering</seg>
       </tuv>
     </tu>
     <tu>
@@ -8328,8 +8344,8 @@
       <tuv lang="EN-US">
         <seg>Zone Placement</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215225Z">
-        <seg>Zone Placering</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T205640Z">
+        <seg>Zone placering</seg>
       </tuv>
     </tu>
     <tu>
