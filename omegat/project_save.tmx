@@ -2344,8 +2344,8 @@
       <tuv lang="EN-US">
         <seg>Description of the parts of the browser window.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T193858Z">
-        <seg>Beskrivelseaf de forskellige dele af browse vinduet.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210139Z">
+        <seg>Beskrivelse af de forskellige dele af browser vinduet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,8 +3616,8 @@
       <tuv lang="EN-US">
         <seg>Hide Inspectors</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200814Z">
-        <seg>Skjul Inspectors</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210006Z">
+        <seg>Skjul Inspector</seg>
       </tuv>
     </tu>
     <tu>
@@ -4046,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspectors</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210003Z" creationid="lars" creationdate="20150103T210003Z">
+        <seg>Inspector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155143Z">
@@ -4366,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210122Z" creationid="lars" creationdate="20150103T210122Z">
+        <seg>Light Crafts vil gerne takke nedenstående personer for deres bidrag til LightZone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light condition</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212402Z">
@@ -4562,6 +4578,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T193722Z">
         <seg>LightZone: Bidragsydere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Black Point Compensation</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210229Z" creationid="lars" creationdate="20150103T210229Z">
+        <seg>LghtZone: sort punkts kompensation</seg>
       </tuv>
     </tu>
     <tu>
@@ -6976,8 +7000,8 @@
       <tuv lang="EN-US">
         <seg>Show Inspectors</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200806Z">
-        <seg>Vis Inspectors</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210005Z">
+        <seg>Vis Inspector</seg>
       </tuv>
     </tu>
     <tu>
@@ -7656,8 +7680,8 @@
       <tuv lang="EN-US">
         <seg>This requirement was introduced with version 2.4, in May 2007.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200952Z">
-        <seg>Dette krav blev introduceret med verision 2.4 i naj 2007 2.4, in May 2007.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150103T210024Z">
+        <seg>Dette krav blev introduceret med verision 2.4 i naj 2007 2.4, i Maj 2007.</seg>
       </tuv>
     </tu>
     <tu>
