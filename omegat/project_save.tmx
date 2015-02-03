@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 image</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195253Z" creationid="lars" creationdate="20150203T195253Z">
+        <seg>1 billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 image selected</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195318Z" creationid="lars" creationdate="20150203T195318Z">
+        <seg>1 billede valgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 of 8</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T211538Z" creationid="lars" creationdate="20150101T211538Z">
@@ -3608,8 +3624,8 @@
       <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154330Z">
-        <seg>Skjul Crop værktøj</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195456Z">
+        <seg>Skjul formindskelses værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -5138,6 +5154,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215927Z">
         <seg>Ingen stile defineret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195310Z" creationid="lars" creationdate="20150203T195310Z">
+        <seg>Ingen billeder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images selected</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195344Z" creationid="lars" creationdate="20150203T195344Z">
+        <seg>Ingen billeder valgt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6976,8 +7008,8 @@
       <tuv lang="EN-US">
         <seg>Show Crop Tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154317Z">
-        <seg>Vis Crop værktøj</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195442Z">
+        <seg>Vis formindskelses værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -9622,6 +9654,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195258Z" creationid="lars" creationdate="20150203T195258Z">
+        <seg>billederimages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images selected</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195337Z" creationid="lars" creationdate="20150203T195337Z">
+        <seg>billeder valgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-ZoneMapper.png</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T211105Z" creationid="lars" creationdate="20150101T211105Z">
@@ -9682,6 +9730,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212331Z">
         <seg>intern + ektern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a readonly file</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195401Z" creationid="lars" creationdate="20150203T195401Z">
+        <seg>er en readonly fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a readonly folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195412Z" creationid="lars" creationdate="20150203T195412Z">
+        <seg>er en readonly mappe</seg>
       </tuv>
     </tu>
     <tu>
