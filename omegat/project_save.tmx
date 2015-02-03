@@ -1344,8 +1344,8 @@
       <tuv lang="EN-US">
         <seg>Choose the browser sort criteria</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150102T212107Z">
-        <seg>Vælg stifinder søge rækkefølge</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195053Z">
+        <seg>Vælg filhåndterings søge rækkefølge</seg>
       </tuv>
     </tu>
     <tu>
