@@ -480,8 +480,8 @@
       <tuv lang="EN-US">
         <seg>An updated version of LightZone is required to read this Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154726Z">
-        <seg>En opdateret verision af LightZone er nødvendig for at læse denne stiæ</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195556Z">
+        <seg>En opdateret verision af LightZone er nødvendig for at læse denne stil</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,16 +1984,16 @@
       <tuv lang="EN-US">
         <seg>Couldn't find an Image path attribute</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155009Z">
-        <seg>Kunne ikke finde en sti til billedet</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195634Z">
+        <seg>Kunne ikke finde en sti til billed attributter</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't find an Image tag</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154939Z">
-        <seg>Kunne ike finde billed tag</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195608Z">
+        <seg>Kunne ikke finde billed tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -2624,8 +2624,8 @@
       <tuv lang="EN-US">
         <seg>Draw Bezier Regions</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154543Z">
-        <seg>Tegn bezier områder</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195533Z">
+        <seg>Optegn bezier områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,8 +2640,8 @@
       <tuv lang="EN-US">
         <seg>Draw Spline Regions</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154600Z">
-        <seg>Tegn spline områder</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195539Z">
+        <seg>Optegn spline områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -3704,8 +3704,8 @@
       <tuv lang="EN-US">
         <seg>Hide the Crop Tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154441Z">
-        <seg>Skjul Crop værktøj</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195506Z">
+        <seg>Skjul formindskelses værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -6176,8 +6176,8 @@
       <tuv lang="EN-US">
         <seg>Reset Rotate</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154454Z">
-        <seg>Nulstil roataion</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195516Z">
+        <seg>Nulstil roatation</seg>
       </tuv>
     </tu>
     <tu>
@@ -7136,16 +7136,16 @@
       <tuv lang="EN-US">
         <seg>Show print proofing tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155238Z">
-        <seg>Vis print proofing tool</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195743Z">
+        <seg>Vis udskrift til korrektur</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Show the Crop Tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154434Z">
-        <seg>Vis Crop værktøj</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195501Z">
+        <seg>Vis formindskelses værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -8408,8 +8408,8 @@
       <tuv lang="EN-US">
         <seg>Zone Mapper Zones</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155053Z">
-        <seg>Zone Mapper Zoner</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195649Z">
+        <seg>Zone Mapper zoner</seg>
       </tuv>
     </tu>
     <tu>
