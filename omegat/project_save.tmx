@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse All</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200217Z" creationid="lars" creationdate="20150203T200217Z">
+        <seg>Fold alle sammen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse Others</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150203T200142Z" creationid="lars" creationdate="20150203T200142Z">
@@ -2906,6 +2914,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150203T200148Z" creationid="lars" creationdate="20150203T200148Z">
         <seg>Udvid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200222Z" creationid="lars" creationdate="20150203T200222Z">
+        <seg>Udvid alle</seg>
       </tuv>
     </tu>
     <tu>
