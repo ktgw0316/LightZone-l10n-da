@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop Mode</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200037Z" creationid="lars" creationdate="20150203T200022Z">
+        <seg>Formindskelses mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crop high-speed</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T210546Z">
@@ -3664,8 +3672,8 @@
       <tuv lang="EN-US">
         <seg>Hide Proof Tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155257Z">
-        <seg>Skjul Proof Tool</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195833Z">
+        <seg>Skjul korrektur værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,8 +3704,8 @@
       <tuv lang="EN-US">
         <seg>Hide print proofing tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155244Z">
-        <seg>skjul print proofing tool</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195806Z">
+        <seg>Skjul udskrift til korrektur</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,8 +3720,8 @@
       <tuv lang="EN-US">
         <seg>Hide the Rotate Tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155341Z">
-        <seg>Skjul roatations værktøjet</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195852Z">
+        <seg>Skjul rotations værktøjet</seg>
       </tuv>
     </tu>
     <tu>
@@ -5782,6 +5790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proof</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195839Z" creationid="lars" creationdate="20150203T195839Z">
+        <seg>Korriger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155719Z">
@@ -6338,6 +6354,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213531Z">
         <seg>Roter til venre og vælg næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Mode</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200042Z" creationid="lars" creationdate="20150203T200042Z">
+        <seg>Rotations Mode</seg>
       </tuv>
     </tu>
     <tu>
@@ -7072,8 +7096,8 @@
       <tuv lang="EN-US">
         <seg>Show Proof Tool</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155248Z">
-        <seg>Vis Proof Tool</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150203T195828Z">
+        <seg>Vis korrektur værktøj</seg>
       </tuv>
     </tu>
     <tu>
