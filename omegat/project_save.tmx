@@ -1454,6 +1454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200132Z" creationid="lars" creationdate="20150203T200132Z">
+        <seg>Fold sammen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Others</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200142Z" creationid="lars" creationdate="20150203T200142Z">
+        <seg>Fold andre sammen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse Tool</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T201902Z">
