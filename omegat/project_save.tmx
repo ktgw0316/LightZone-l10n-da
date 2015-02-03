@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Expand</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200154Z" creationid="lars" creationdate="20150203T200154Z">
+        <seg>Auto udvid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto White Balance</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212404Z">
@@ -2558,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't Auto Expand</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200206Z" creationid="lars" creationdate="20150203T200206Z">
+        <seg>Auto udvid ikke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Reset</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203447Z">
@@ -2882,6 +2898,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165439Z">
         <seg>Luk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150203T200148Z" creationid="lars" creationdate="20150203T200148Z">
+        <seg>Udvid</seg>
       </tuv>
     </tu>
     <tu>
