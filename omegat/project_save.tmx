@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205528Z" creationid="lars" creationdate="20150227T205528Z">
+        <seg>Tilføj stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155900Z">
@@ -2198,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205446Z" creationid="lars" creationdate="20150227T205446Z">
+        <seg>Oprettelse af Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crop</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154246Z">
@@ -2430,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205439Z" creationid="lars" creationdate="20150227T205439Z">
+        <seg>Sletning af stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depth</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195939Z">
@@ -2442,6 +2466,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150103T210250Z" creationid="lars" creationdate="20150103T210250Z">
         <seg>Beskrivelse af sort punkts kompensation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of styles and hot to use them.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205402Z" creationid="lars" creationdate="20150227T205310Z">
+        <seg>Beskrivelse af stile og hvorledes de bruges.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3058,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150103T205813Z">
         <seg>Eksporter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205505Z" creationid="lars" creationdate="20150227T205505Z">
+        <seg>Eksport af stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Importing styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205429Z" creationid="lars" creationdate="20150227T205429Z">
+        <seg>Importering af stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125853Z">
@@ -4738,6 +4786,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T194410Z">
         <seg>LightZone: Nye muligheder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Styles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205352Z" creationid="lars" creationdate="20150227T205352Z">
+        <seg>LightZone: Stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -9810,14 +9866,6 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213556Z">
         <seg>stearinlys</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>index/index.html</seg>
-      </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125908Z">
-        <seg>inholdsfortegnelse/index.html</seg>
       </tuv>
     </tu>
     <tu>
