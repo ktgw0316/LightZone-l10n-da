@@ -166,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Tool anatomy&lt;/a0&gt; &amp; &lt;a1&gt;menu&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210019Z" creationid="lars" creationdate="20150227T210019Z">
+        <seg>&lt;a0&gt;Værktøjs anatomi&lt;/a0&gt; &amp; &lt;a1&gt;menu&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color selection&lt;/a1&gt;, &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205921Z" creationid="lars" creationdate="20150227T205921Z">
+        <seg>&lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Farve valg&lt;/a1&gt;, &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160811Z">
@@ -1814,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color/Luminosity selection</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210153Z" creationid="lars" creationdate="20150227T210153Z">
+        <seg>Valg af Farve/Lysstyrke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ColorBW</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195933Z">
@@ -2398,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default tone curve</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210050Z" creationid="lars" creationdate="20150227T210050Z">
+        <seg>Default farve kurve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211026Z">
@@ -2858,6 +2890,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T205847Z" creationid="lars" creationdate="20150227T205847Z">
         <seg>Redigering af billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing tools overview</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205944Z" creationid="lars" creationdate="20150227T205944Z">
+        <seg>Overblik over redigerings værktøjer</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,6 +6286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions and masks</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210101Z" creationid="lars" creationdate="20150227T210101Z">
+        <seg>Regioner og masks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Related image file format</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213027Z">
@@ -8226,6 +8274,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T211357Z" creationid="lars" creationdate="20150101T211357Z">
         <seg>Værktøjs opbygning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool stack</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210029Z" creationid="lars" creationdate="20150227T210029Z">
+        <seg>Værktøjs stak</seg>
       </tuv>
     </tu>
     <tu>
