@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Acknowledgments&lt;/a0&gt;, &lt;a1&gt;Legal notices&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210529Z" creationid="lars" creationdate="20150227T210529Z">
+        <seg>&lt;a0&gt;Tak til&lt;/a0&gt;, &lt;a1&gt;Juridiske bemærkninger&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Tool anatomy&lt;/a0&gt; &amp; &lt;a1&gt;menu&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T210019Z" creationid="lars" creationdate="20150227T210019Z">
