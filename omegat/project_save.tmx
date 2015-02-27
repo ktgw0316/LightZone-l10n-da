@@ -2032,8 +2032,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't find the original image</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155116Z">
-        <seg>Kunne ikke finde det origianle billede</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204154Z">
+        <seg>Kunne ikke finde det originale billede</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2056,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't manage to save directly.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155645Z">
-        <seg>Kunner ikke gennemføre at gemme direkte.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204305Z">
+        <seg>Kunne ikke at gemme direkte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7952,8 +7952,8 @@
       <tuv lang="EN-US">
         <seg>To Folder:</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155014Z">
-        <seg>Til folder:</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204140Z">
+        <seg>Til mappe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8200,8 +8200,8 @@
       <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155926Z">
-        <seg>Bekræfter system biblioteker</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204329Z">
+        <seg>Undersøger system biblioteker</seg>
       </tuv>
     </tu>
     <tu>
