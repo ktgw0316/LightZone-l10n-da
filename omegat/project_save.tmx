@@ -1480,8 +1480,8 @@
       <tuv lang="EN-US">
         <seg>Clone</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212137Z">
-        <seg>Kon</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205656Z">
+        <seg>Klon</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,6 +1946,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160158Z">
         <seg>Konverter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting images</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205641Z" creationid="lars" creationdate="20150227T205641Z">
+        <seg>Konvertering af billeder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting photos</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205817Z" creationid="lars" creationdate="20150227T205817Z">
+        <seg>Sletning af billeder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleting styles</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T205439Z" creationid="lars" creationdate="20150227T205439Z">
@@ -2726,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag &amp; drop photos</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205832Z" creationid="lars" creationdate="20150227T205832Z">
+        <seg>Træk &amp; slip billeder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag a rectangle on the image to crop it.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154704Z">
@@ -2826,6 +2850,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212400Z">
         <seg>Redigerings værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing a photo</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205847Z" creationid="lars" creationdate="20150227T205847Z">
+        <seg>Redigering af billede</seg>
       </tuv>
     </tu>
     <tu>
@@ -5214,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigating folders</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205730Z" creationid="lars" creationdate="20150227T205730Z">
+        <seg>Navigering i mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Near lens step</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T212937Z">
@@ -5654,6 +5694,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photo Browser</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205717Z" creationid="lars" creationdate="20150227T205717Z">
+        <seg>Billed browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo Editor</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205859Z" creationid="lars" creationdate="20150227T205859Z">
+        <seg>Billed editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick Color</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T162236Z">
@@ -5754,6 +5810,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203430Z">
         <seg>Forudsiger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205708Z" creationid="lars" creationdate="20150227T205708Z">
+        <seg>Indstillinger</seg>
       </tuv>
     </tu>
     <tu>
@@ -5910,6 +5974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printing</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205612Z" creationid="lars" creationdate="20150227T205612Z">
+        <seg>Udskrivning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printing...</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203402Z">
@@ -6018,6 +6090,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T211128Z">
         <seg>Bedømmelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating photos</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205755Z" creationid="lars" creationdate="20150227T205755Z">
+        <seg>Rating af  billeder</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6354,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213700Z">
         <seg>Omdøb...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Renaming photos</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205804Z" creationid="lars" creationdate="20150227T205804Z">
+        <seg>Omdøbe billeder</seg>
       </tuv>
     </tu>
     <tu>
@@ -6566,6 +6654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotating photos</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205741Z" creationid="lars" creationdate="20150227T205741Z">
+        <seg>Rotering af billeder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rows per strip</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T203913Z">
@@ -6714,6 +6810,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162323Z">
         <seg>Gemmer som $1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving your work</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205623Z" creationid="lars" creationdate="20150227T205623Z">
+        <seg>Gemme dit arbejde</seg>
       </tuv>
     </tu>
     <tu>
