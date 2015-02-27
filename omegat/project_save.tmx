@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy &amp; paste tools</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210221Z" creationid="lars" creationdate="20150227T210221Z">
+        <seg>Kopier &amp; sæt ind værktøjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy Region</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165503Z">
@@ -6142,6 +6150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw Adjustments</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210248Z" creationid="lars" creationdate="20150227T210248Z">
+        <seg>Raw justeringer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw data unique ID-X</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T212637Z">
@@ -6218,6 +6234,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205655Z">
         <seg>Rød farve balance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red-Eye</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210435Z" creationid="lars" creationdate="20150227T210257Z">
+        <seg>Rød øje værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -6322,6 +6346,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195140Z">
         <seg>Udløser indstilling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relight</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210400Z" creationid="lars" creationdate="20150227T210400Z">
+        <seg>Relight værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -6608,8 +6640,8 @@
       <tuv lang="EN-US">
         <seg>Rotate</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154445Z">
-        <seg>Roter</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210332Z">
+        <seg>Roter værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,8 +7296,8 @@
       <tuv lang="EN-US">
         <seg>Sharpen</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T202747Z">
-        <seg>Skarphed</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210323Z">
+        <seg>Skarpheds værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -7704,8 +7736,8 @@
       <tuv lang="EN-US">
         <seg>Spot</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212150Z">
-        <seg>Plet</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210315Z">
+        <seg>Plet værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -8528,8 +8560,8 @@
       <tuv lang="EN-US">
         <seg>White Balance</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212057Z">
-        <seg>Hvid ballance</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210454Z">
+        <seg>Hvid ballance værktøj</seg>
       </tuv>
     </tu>
     <tu>
@@ -8778,6 +8810,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205252Z">
         <seg>Zone match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T210442Z" creationid="lars" creationdate="20150227T210442Z">
+        <seg>ZoneMapper værktøj</seg>
       </tuv>
     </tu>
     <tu>
