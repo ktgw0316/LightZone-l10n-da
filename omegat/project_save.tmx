@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you move the mouse, the information updates.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205059Z" creationid="lars" creationdate="20150227T205059Z">
+        <seg>Mens du bevæger musen, opdateres de viste oplysninger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As-Shot White Balance</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212426Z">
@@ -1438,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Sampler tab.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205142Z" creationid="lars" creationdate="20150227T205142Z">
+        <seg>Klik på sampler knappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the ZoneMapper tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T211225Z" creationid="lars" creationdate="20150101T211225Z">
@@ -1634,6 +1650,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155220Z">
         <seg>Farve valgs maske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selection Viewer</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205201Z" creationid="lars" creationdate="20150227T205201Z">
+        <seg>Farve udvælgeses vinduet</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2442,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150103T210250Z" creationid="lars" creationdate="20150103T210250Z">
         <seg>Beskrivelse af sort punkts kompensation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the Sampler.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205003Z" creationid="lars" creationdate="20150227T205003Z">
+        <seg>Beskrivelse af sampler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7986,6 +8018,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T212040Z" creationid="lars" creationdate="20150101T212040Z">
         <seg>For at lære mere om at benytter ZoneMapper værktøjet klik neden for.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show the Sampler:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T205116Z" creationid="lars" creationdate="20150227T205116Z">
+        <seg>For at vise sampler:</seg>
       </tuv>
     </tu>
     <tu>
