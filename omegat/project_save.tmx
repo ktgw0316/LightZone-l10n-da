@@ -1416,8 +1416,8 @@
       <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154325Z">
-        <seg>Klik på det billede der hvor du gerne vil lave en eller flere regioner</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T203948Z">
+        <seg>Klik på det billede der hvor du gerne vil vælge eller flere områder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,8 +2640,8 @@
       <tuv lang="EN-US">
         <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141214T211255Z">
-        <seg>Dobbelt klik for at afslutte oprettelsen af region (eller shift-klik, eller pres ESC).</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204005Z">
+        <seg>Dobbelt klik for at afslutte oprettelsen af område (eller shift-klik, eller pres ESC).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,8 +2664,8 @@
       <tuv lang="EN-US">
         <seg>Drag along features in your image to align them.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154625Z">
-        <seg>lav en linje gennem de punkter i billedet du vil have på linje.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T203854Z">
+        <seg>Lav en linje gennem de punkter i billedet du vil have på linje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5048,8 +5048,8 @@
       <tuv lang="EN-US">
         <seg>Move the sliders in the Rotate Tool to rotate your image.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154502Z">
-        <seg>Bevæg skyderne i rotations værktøjet for at roetere dit billede.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T203844Z">
+        <seg>Bevæg skyderne i rotations værktøjet for at rotere dit billede.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5584,8 +5584,8 @@
       <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154745Z">
-        <seg>Vælg en folder med billeder i.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T203903Z">
+        <seg>Vælg en mappe med billeder i.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,8 +7544,8 @@
       <tuv lang="EN-US">
         <seg>Style could not be applied</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154839Z">
-        <seg>Stilen kunne ikke tilføjes</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204033Z">
+        <seg>Billed stilen kunne ikke tilføjes</seg>
       </tuv>
     </tu>
     <tu>
