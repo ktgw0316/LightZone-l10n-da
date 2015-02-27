@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204840Z" creationid="lars" creationdate="20150227T204840Z">
+        <seg>Automatisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Expand</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150203T200154Z" creationid="lars" creationdate="20150203T200154Z">
@@ -688,8 +696,8 @@
       <tuv lang="EN-US">
         <seg>Auto White Balance</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212404Z">
-        <seg>Auto hvid balance</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204834Z">
+        <seg>Automatisk hvid balance</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,8 +2184,8 @@
       <tuv lang="EN-US">
         <seg>Crop Mode</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150203T200037Z" creationid="lars" creationdate="20150203T200022Z">
-        <seg>Formindskelses mode</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204755Z" creationid="lars" creationdate="20150203T200022Z">
+        <seg>Formindskelses opførsel</seg>
       </tuv>
     </tu>
     <tu>
@@ -7488,8 +7496,8 @@
       <tuv lang="EN-US">
         <seg>Standard Cursor Mode</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155514Z">
-        <seg>Standard muse måde</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150227T204745Z">
+        <seg>Standard markør opførsel</seg>
       </tuv>
     </tu>
     <tu>
