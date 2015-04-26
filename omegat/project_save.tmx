@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2590,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T200924Z" creationid="lars" creationdate="20150426T200924Z">
+        <seg>Udviklere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Device settings description</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T204224Z">
@@ -4646,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Crafts and the LightZone Project would like to acknowledge the following people who contributed to LightZone:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T200852Z" creationid="lars" creationdate="20150426T200852Z">
+        <seg>Light Crafts og The LightZone Project vil gerne takke nedenstående personer der har bidraget til LightZone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150103T210122Z" creationid="lars" creationdate="20150103T210122Z">
@@ -5602,6 +5618,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T203834Z">
         <seg>Orientering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original LightZone from Light Crafts</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T200913Z" creationid="lars" creationdate="20150426T200913Z">
+        <seg>Original LightZone fra Light Crafts</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,7 +9696,7 @@
       <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="DA" changeid="ktgw0316" changedate="20141103T042013Z">
+      <tuv lang="DA" changeid="lars" changedate="20150426T200743Z">
         <seg>da-DK</seg>
       </tuv>
     </tu>
