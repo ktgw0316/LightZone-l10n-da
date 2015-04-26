@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camera Support</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T201412Z" creationid="lars" creationdate="20150426T201412Z">
+        <seg>Understøttede kameraer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera calibration 1</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T205020Z">
@@ -8274,6 +8282,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T204140Z">
         <seg>Til mappe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check all fixed bugs, see the &lt;a1&gt; ChangeLog on github&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T201327Z" creationid="lars" creationdate="20150426T201327Z">
+        <seg>For at se alle rettede fejl, se &lt;a1&gt; ChangeLogen på github&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
