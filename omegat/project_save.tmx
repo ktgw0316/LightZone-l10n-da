@@ -8072,8 +8072,8 @@
       <tuv lang="EN-US">
         <seg>The new features in LightZone.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T194431Z">
-        <seg>De ny redskaber i LightZone.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150426T201045Z">
+        <seg>De nye tileføjelser til LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8106,6 +8106,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154702Z">
         <seg>Denne fil har intet verisions nummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This page lists only the new features in LightZone.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T201130Z" creationid="lars" creationdate="20150426T201130Z">
+        <seg>Denne side opremser kun nyhederne LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,6 +8390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Translators</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T201007Z" creationid="lars" creationdate="20150426T201007Z">
+        <seg>Oversættere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UHS continuous</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205426Z">
@@ -8506,6 +8522,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160604Z">
         <seg>Brug denne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Interface</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T201214Z" creationid="lars" creationdate="20150426T201214Z">
+        <seg>Bruferflade</seg>
       </tuv>
     </tu>
     <tu>
