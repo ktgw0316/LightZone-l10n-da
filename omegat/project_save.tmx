@@ -4862,6 +4862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone no longer uses LZN files and now always &lt;a0&gt;saves your work&lt;/a0&gt; as either JPEG or TIFF files for maximum interoperability with other applications.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150426T201608Z" creationid="lars" creationdate="20150426T201608Z">
+        <seg>LightZone bruger ikke længere LZN files og  &lt;a0&gt;gemmer dit arbejde&lt;/a0&gt; som enten JPEG eller TIFF filer for maximal understøttelse af andre programmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone on Linux requires a CPU supporting the SSE2 instruction set.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200911Z">
