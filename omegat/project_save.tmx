@@ -8310,6 +8310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To learn about the key features, see the &lt;a0&gt;Discover LightZone&lt;/a0&gt; page.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T090635Z" creationid="lars" creationdate="20150427T090635Z">
+        <seg>For at lære om de væsentlige værktøjer, se &lt;a0&gt;Discover LightZone&lt;/a0&gt; siden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T201141Z">
@@ -8552,8 +8560,8 @@
       <tuv lang="EN-US">
         <seg>User Interface</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150426T201214Z" creationid="lars" creationdate="20150426T201214Z">
-        <seg>Bruferflade</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150427T090535Z" creationid="lars" creationdate="20150426T201214Z">
+        <seg>Brugerflade</seg>
       </tuv>
     </tu>
     <tu>
@@ -8842,6 +8850,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155310Z">
         <seg>Du kan åbne denne fil eller prøve at importere den som en LightZone stil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now select multiple thumbnails with Ctrl-Shift-Click.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T090705Z" creationid="lars" creationdate="20150427T090705Z">
+        <seg>Du kan nu vælge flere thumbnails med Ctrl-Shift-Click.</seg>
       </tuv>
     </tu>
     <tu>
