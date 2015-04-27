@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Info" tab is now also available in Editor mode.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091024Z" creationid="lars" creationdate="20150427T091024Z">
+        <seg>"Info" tab er nu også tilgængeligt i	 Editor mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 files to process</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100651Z">
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200020Z">
         <seg>Avancerede indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AdvancedNoiseReduction is updated to V4.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091041Z" creationid="lars" creationdate="20150427T091041Z">
+        <seg>AdvancedNoiseReduction er opdateret til V4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4314,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T205429Z" creationid="lars" creationdate="20150227T205429Z">
         <seg>Importering af stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Crop/Rotate mode, you can now rotate the image with mouse wheel, and change the rotation grid origin with a click.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T090956Z" creationid="lars" creationdate="20150427T090956Z">
+        <seg>I Formindsk/Forstør mode, kan du nu rotere billedet medmuse hjulet, og ændre midtpunktet for roationen med et klik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8858,6 +8882,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150427T090705Z" creationid="lars" creationdate="20150427T090705Z">
         <seg>Du kan nu vælge flere thumbnails med Ctrl-Shift-Click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now zoom in/out with Ctrl-wheel, and move the zoomed image with Ctrl-drag.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T090838Z" creationid="lars" creationdate="20150427T090838Z">
+        <seg>Du kan nu zoome ind/od med Ctrl-musehjul, og flytter det zoomede område med Ctrl-træk.</seg>
       </tuv>
     </tu>
     <tu>
