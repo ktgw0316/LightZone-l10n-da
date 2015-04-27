@@ -3886,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help files are translated in Danish, Dutch, French, Japanese, and Spanish.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091332Z" creationid="lars" creationdate="20150427T091332Z">
+        <seg>Hjælpe filer er oversat helt eller delvis til Dansk, Hollandsk, Fransk, Japansk, og Spansk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150203T195456Z">
@@ -4986,6 +4994,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154836Z">
         <seg>Indlæser...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091141Z" creationid="lars" creationdate="20150427T091141Z">
+        <seg>Localisering</seg>
       </tuv>
     </tu>
     <tu>
@@ -8462,6 +8478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UI messages are translated in Danish, Dutch, French, German, Japanese, and Spanish.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091229Z" creationid="lars" creationdate="20150427T091229Z">
+        <seg>UI er oversat til Dansk, Hollandsk, Fransk, Tysk, Japansk, og Spansk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154759Z">
@@ -8538,6 +8562,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141110T100601Z">
         <seg>Ikke understøttet farve profil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upresolution is now possible when converting an edited image.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091134Z" creationid="lars" creationdate="20150427T091134Z">
+        <seg>opskalering er nu muligt når et redigeret billede konverteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8802,6 +8834,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161419Z">
         <seg>Vinduers placeringer og størrelser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows (64-bit), Mac OS X 10.10, FreeBSD, and OpenIndiana are now supported.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091401Z" creationid="lars" creationdate="20150427T091401Z">
+        <seg>Windows (64-bit), Mac OS X 10.10, FreeBSD, og OpenIndiana er nu understøttet.</seg>
       </tuv>
     </tu>
     <tu>
