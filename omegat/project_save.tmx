@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150427T091435Z" creationid="lars" creationdate="20150427T091435Z">
+        <seg>Raw filer fra følgende kamraer er nu understøttet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw image size</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215502Z">
