@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(LightZone must restart for this to take effect.)</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192010Z" creationid="lars" creationdate="20150528T192010Z">
+        <seg>(LightZone må genstartes for at dette træder i kraft.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155212Z">
@@ -646,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to clear the global browser cache?</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192109Z" creationid="lars" creationdate="20150528T192109Z">
+        <seg>Er du sikker på du vil rydde den globale browser cache?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155900Z">
@@ -746,6 +762,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150203T200154Z" creationid="lars" creationdate="20150203T200154Z">
         <seg>Auto udvid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Save</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192021Z" creationid="lars" creationdate="20150528T192021Z">
+        <seg>Auto Gem</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T191934Z" creationid="lars" creationdate="20150528T191934Z">
+        <seg>Valg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the browser sort criteria</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150203T195053Z">
@@ -1482,6 +1514,22 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165350Z">
         <seg>Ryd nylige mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear cache</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192045Z" creationid="lars" creationdate="20150528T192045Z">
+        <seg>Ryd cache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192039Z" creationid="lars" creationdate="20150528T192039Z">
+        <seg>Ryd...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,6 +5042,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154836Z">
         <seg>Indlæser...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192027Z" creationid="lars" creationdate="20150528T192027Z">
+        <seg>Lokal</seg>
       </tuv>
     </tu>
     <tu>
