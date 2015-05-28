@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for Update</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192309Z" creationid="lars" creationdate="20150528T192309Z">
+        <seg>Kontroller for opdateringer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update...</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165953Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T210746Z" creationid="larshenrikoern" creationdate="20141218T210746Z">
         <seg>By</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192255Z" creationid="lars" creationdate="20150528T192255Z">
+        <seg>Ryd</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2762,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164457Z">
         <seg>Fortryd alle ændringer til billedet og start forfra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Color Profile</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192402Z" creationid="lars" creationdate="20150528T192402Z">
+        <seg>Vis frave Profil</seg>
       </tuv>
     </tu>
     <tu>
@@ -4848,8 +4872,8 @@
       <tuv lang="EN-US">
         <seg>LightZone Settings couldn't be reset</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150102T211536Z">
-        <seg>LighZones kunne ikke nulstiles</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192426Z">
+        <seg>LighZones kunne ikke nulstilles</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5258,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150102T212008Z">
         <seg>Målt info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Memory Limit</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192444Z" creationid="lars" creationdate="20150528T192444Z">
+        <seg>Hukommeses grænse</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save LightZone files as:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192458Z" creationid="lars" creationdate="20150528T192458Z">
+        <seg>Gem LightZone filer som:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Style</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161003Z">
@@ -8254,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will discard preview images and orientations saved by the LightZone browser.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192247Z" creationid="lars" creationdate="20150528T192247Z">
+        <seg>Dette vil fjerne alle preview billeder og ændringer gemt af LightZones browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threshold</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200231Z">
@@ -8762,6 +8810,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T194446Z">
         <seg>Hvad er nyt i LightZone?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192350Z" creationid="lars" creationdate="20150528T192350Z">
+        <seg>Ved opstart kan LightZone automatisk kontrollere om der er en nyere verision klar til download</seg>
       </tuv>
     </tu>
     <tu>
