@@ -3094,6 +3094,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter copyright text in the space above.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192552Z" creationid="lars" creationdate="20150528T192538Z">
+        <seg>Skriv copyright tekst nedenfor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter creator here.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192615Z" creationid="lars" creationdate="20150528T192615Z">
+        <seg>Skriv forfatter/kunstner her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Envelope number</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T202802Z">
@@ -5408,8 +5424,8 @@
       <tuv lang="EN-US">
         <seg>Move to Recycle Bin...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213713Z">
-        <seg>Flyt til affaldsspanden...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192733Z">
+        <seg>Flyt til papirkurven...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5424,8 +5440,8 @@
       <tuv lang="EN-US">
         <seg>Move to Trash...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213729Z">
-        <seg>Flyt til affaldsspande...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192744Z">
+        <seg>Flyt til papirkurven...</seg>
       </tuv>
     </tu>
     <tu>
