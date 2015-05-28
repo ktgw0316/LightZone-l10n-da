@@ -8168,8 +8168,8 @@
       <tuv lang="EN-US">
         <seg>Temperature</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200236Z">
-        <seg>Temperatur</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192936Z">
+        <seg>Farve Temperatur</seg>
       </tuv>
     </tu>
     <tu>
@@ -10416,16 +10416,16 @@
       <tuv lang="EN-US">
         <seg>is a readonly file</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150203T195401Z" creationid="lars" creationdate="20150203T195401Z">
-        <seg>er en readonly fil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192824Z" creationid="lars" creationdate="20150203T195401Z">
+        <seg>er en filder kun kan læses</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>is a readonly folder</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150203T195412Z" creationid="lars" creationdate="20150203T195412Z">
-        <seg>er en readonly mappe</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T192838Z" creationid="lars" creationdate="20150203T195412Z">
+        <seg>er en mappeder kun kan læses</seg>
       </tuv>
     </tu>
     <tu>
