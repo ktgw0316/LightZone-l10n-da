@@ -432,8 +432,8 @@
       <tuv lang="EN-US">
         <seg>Add a new Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215743Z">
-        <seg>Tilføj ny stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200054Z">
+        <seg>Tilføj ny stilart</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +866,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195145Z">
         <seg>Basis ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base color</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200503Z" creationid="lars" creationdate="20150528T200503Z">
+        <seg>Grund farve</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1558,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200736Z" creationid="lars" creationdate="20150528T200736Z">
+        <seg>Klik færdig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Start.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200722Z" creationid="lars" creationdate="20150528T200722Z">
+        <seg>Klik start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T203948Z">
@@ -2136,16 +2160,16 @@
       <tuv lang="EN-US">
         <seg>Couldn't access Style "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220024Z">
-        <seg>Kunne ikke få adgang til stilen "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200149Z">
+        <seg>Kunne ikke få adgang til stilarten "$1"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't access Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150103T205824Z">
-        <seg>Kunne ikke få adgang til stilen</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200117Z">
+        <seg>Kunne ikke få adgang til stilarten</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,8 +2288,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't read Style from "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220019Z">
-        <seg>Kunne ikke læse stilen "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200155Z">
+        <seg>Kunne ikke læse stilarten "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,16 +2336,16 @@
       <tuv lang="EN-US">
         <seg>Couldn't store Style "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220039Z">
-        <seg>Kunne ikke gemme stilen "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200202Z">
+        <seg>Kunne ikke gemme stilarten "$1"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't write Style "$1" to file "$2"</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220104Z">
-        <seg>Kunne ikke skrive stil "$1" til fil "$2"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200208Z">
+        <seg>Kunne ikke skrive stilarten "$1" til fil "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,8 +2592,8 @@
       <tuv lang="EN-US">
         <seg>Delete Style failed</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215915Z">
-        <seg>Sletning af stil lykkedes ikke</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200133Z">
+        <seg>Sletning af stilart lykkedes ikke</seg>
       </tuv>
     </tu>
     <tu>
@@ -2984,8 +3008,8 @@
       <tuv lang="EN-US">
         <seg>Edit the list of Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215801Z">
-        <seg>Rediger listen med stile</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200102Z">
+        <seg>Rediger listen med stilearter</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,8 +3280,8 @@
       <tuv lang="EN-US">
         <seg>Export Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150103T205817Z">
-        <seg>Eksporter Stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200126Z">
+        <seg>Eksporter Stilart</seg>
       </tuv>
     </tu>
     <tu>
@@ -4384,8 +4408,8 @@
       <tuv lang="EN-US">
         <seg>Import Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215846Z">
-        <seg>Importer stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200121Z">
+        <seg>Importer stilart</seg>
       </tuv>
     </tu>
     <tu>
@@ -5200,8 +5224,8 @@
       <tuv lang="EN-US">
         <seg>Manage Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220133Z">
-        <seg>Adminstrer stile</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200256Z">
+        <seg>Adminstrer stilearter</seg>
       </tuv>
     </tu>
     <tu>
@@ -5584,8 +5608,8 @@
       <tuv lang="EN-US">
         <seg>No Styles defined</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215927Z">
-        <seg>Ingen stile defineret</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200139Z">
+        <seg>Ingen stilarter defineret</seg>
       </tuv>
     </tu>
     <tu>
@@ -6616,8 +6640,8 @@
       <tuv lang="EN-US">
         <seg>Remove this Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215749Z">
-        <seg>Fjern denne stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200057Z">
+        <seg>Fjern denne stilart</seg>
       </tuv>
     </tu>
     <tu>
@@ -6802,6 +6826,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155946Z">
         <seg>Gendanner indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result color</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200526Z" creationid="lars" creationdate="20150528T200526Z">
+        <seg>Resulterende farve</seg>
       </tuv>
     </tu>
     <tu>
@@ -7346,6 +7378,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155033Z">
         <seg>Send til mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending photos</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200756Z" creationid="lars" creationdate="20150528T200756Z">
+        <seg>sende billeder</seg>
       </tuv>
     </tu>
     <tu>
@@ -8016,8 +8056,8 @@
       <tuv lang="EN-US">
         <seg>Style "$1" was written to "$2"</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T220122Z">
-        <seg>Stil "$1" belv skrevet til "$2"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200215Z">
+        <seg>Stilarten "$1" blev skrevet til "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8040,8 +8080,8 @@
       <tuv lang="EN-US">
         <seg>Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T203524Z">
-        <seg>Stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200108Z">
+        <seg>Stilarter</seg>
       </tuv>
     </tu>
     <tu>
@@ -8250,6 +8290,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150426T201045Z">
         <seg>De nye tileføjelser til LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result color is always darker.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20150528T200602Z" creationid="lars" creationdate="20150528T200602Z">
+        <seg>Den resulterende farve er altid mørkere</seg>
       </tuv>
     </tu>
     <tu>
