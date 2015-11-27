@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't clear the global browser cache.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222618Z" creationid="lars" creationdate="20151127T222618Z">
+        <seg>Kunne ikke rydde den globale browser cache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't convert $1</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155720Z">
