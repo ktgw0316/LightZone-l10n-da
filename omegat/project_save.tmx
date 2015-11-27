@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Colors</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222424Z" creationid="lars" creationdate="20151127T222424Z">
+        <seg>All farver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always apply this Style</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160941Z">
@@ -1106,6 +1114,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205711Z">
         <seg>Blå farve balance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blues</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222529Z" creationid="lars" creationdate="20151127T222456Z">
+        <seg>Blå</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Zones</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222514Z" creationid="lars" creationdate="20151127T222514Z">
+        <seg>Color Zoner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color balance</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T210315Z">
@@ -2408,8 +2432,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't write Style "$1" to file "$2"</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200208Z">
-        <seg>Kunne ikke skrive stilarten "$1" til fil "$2"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222313Z">
+        <seg>Kunne ikke skrive filteret "$1" til fil "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,6 +2530,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195849Z">
         <seg>Cyan-rød</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyans</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222452Z" creationid="lars" creationdate="20151127T222452Z">
+        <seg>Cyan</seg>
       </tuv>
     </tu>
     <tu>
@@ -4014,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greens</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222448Z" creationid="lars" creationdate="20151127T222448Z">
+        <seg>Grønne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HS continuous</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205434Z">
@@ -5246,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magentas</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222502Z" creationid="lars" creationdate="20151127T222502Z">
+        <seg>Magenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203259Z">
@@ -5288,8 +5336,8 @@
       <tuv lang="EN-US">
         <seg>Manage Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200256Z">
-        <seg>Adminstrer stilearter</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222331Z">
+        <seg>Adminstrer filtre</seg>
       </tuv>
     </tu>
     <tu>
@@ -6110,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pixels per inch</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222411Z" creationid="lars" creationdate="20151127T222411Z">
+        <seg>Pixels per tommr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Planar configuration</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T204134Z">
@@ -6374,6 +6430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAW Settings</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222522Z" creationid="lars" creationdate="20151127T222522Z">
+        <seg>RAW indstillinger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Range</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200413Z">
@@ -6546,6 +6610,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T164347Z">
         <seg>Udfør sidste handling igen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reds</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222440Z" creationid="lars" creationdate="20151127T222440Z">
+        <seg>Røde</seg>
       </tuv>
     </tu>
     <tu>
@@ -7058,6 +7130,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T204747Z">
         <seg>Sampling format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sampled Colors</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222432Z" creationid="lars" creationdate="20151127T222432Z">
+        <seg>Samplede farver</seg>
       </tuv>
     </tu>
     <tu>
@@ -8120,8 +8200,8 @@
       <tuv lang="EN-US">
         <seg>Style "$1" was written to "$2"</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200215Z">
-        <seg>Stilarten "$1" blev skrevet til "$2"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222322Z">
+        <seg>Filteret "$1" blev skrevet til "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9154,6 +9234,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T195906Z">
         <seg>Gul-blå</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellows</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222444Z" creationid="lars" creationdate="20151127T222444Z">
+        <seg>Gule</seg>
       </tuv>
     </tu>
     <tu>
