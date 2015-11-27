@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22,10 +22,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"A jar file is corrupt.";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T221853Z" creationid="lars" creationdate="20151127T221853Z">
+        <seg>"En jar file er ødelagt.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"A jar file is missing.";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T221906Z" creationid="lars" creationdate="20151127T221906Z">
+        <seg>"En jar fil mangler.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Corrupted application";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T221749Z" creationid="lars" creationdate="20151127T221749Z">
+        <seg>"Mangelfuld installtion";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Info" tab is now also available in Editor mode.</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150427T091024Z" creationid="lars" creationdate="20150427T091024Z">
         <seg>"Info" tab er nu også tilgængeligt i	 Editor mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"LightZone requires a PowerPC G4, G5, or Intel processor.";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T221835Z" creationid="lars" creationdate="20151127T221835Z">
+        <seg>"LightZone behøver PowerPC G4, G5, or Intel processor.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Newer CPU required";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T221814Z" creationid="lars" creationdate="20151127T221814Z">
+        <seg>"Nyere CPU nødvendig";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Newer Mac OS X required";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T221934Z" creationid="lars" creationdate="20151127T221934Z">
+        <seg>"Nyere Mac OS X nødvendigt";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Unexpected failure";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T221758Z" creationid="lars" creationdate="20151127T221758Z">
+        <seg>"Uventet fejl";</seg>
       </tuv>
     </tu>
     <tu>
