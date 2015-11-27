@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"LightZone requires Mac OS X version 10.4.3 or later.";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222018Z" creationid="lars" creationdate="20151127T222018Z">
+        <seg>"LightZone benytter Mac OS X version 10.4.3 eller senere.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"LightZone requires a PowerPC G4, G5, or Intel processor.";</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20151127T221835Z" creationid="lars" creationdate="20151127T221835Z">
@@ -488,8 +496,8 @@
       <tuv lang="EN-US">
         <seg>Add a new Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200054Z">
-        <seg>Tilføj ny stilart</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222122Z">
+        <seg>Tilføj nyt filter </seg>
       </tuv>
     </tu>
     <tu>
@@ -2216,16 +2224,16 @@
       <tuv lang="EN-US">
         <seg>Couldn't access Style "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200149Z">
-        <seg>Kunne ikke få adgang til stilarten "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222232Z">
+        <seg>Kunne ikke få adgang til filteret "$1"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't access Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200117Z">
-        <seg>Kunne ikke få adgang til stilarten</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222155Z">
+        <seg>Kunne ikke få adgang til filteret</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,8 +2352,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't read Style from "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200155Z">
-        <seg>Kunne ikke læse stilarten "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222251Z">
+        <seg>Kunne ikke læse fiteret fra "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,8 +2400,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't store Style "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200202Z">
-        <seg>Kunne ikke gemme stilarten "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222301Z">
+        <seg>Kunne ikke gemme filteret "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2648,8 +2656,8 @@
       <tuv lang="EN-US">
         <seg>Delete Style failed</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200133Z">
-        <seg>Sletning af stilart lykkedes ikke</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222215Z">
+        <seg>Sletning af filter lykkedes ikke</seg>
       </tuv>
     </tu>
     <tu>
@@ -3064,8 +3072,8 @@
       <tuv lang="EN-US">
         <seg>Edit the list of Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200102Z">
-        <seg>Rediger listen med stilearter</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222136Z">
+        <seg>Rediger listen med filtre</seg>
       </tuv>
     </tu>
     <tu>
@@ -3336,8 +3344,8 @@
       <tuv lang="EN-US">
         <seg>Export Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200126Z">
-        <seg>Eksporter Stilart</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222207Z">
+        <seg>Eksporter filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -4464,8 +4472,8 @@
       <tuv lang="EN-US">
         <seg>Import Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200121Z">
-        <seg>Importer stilart</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222202Z">
+        <seg>Importer filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -5664,8 +5672,8 @@
       <tuv lang="EN-US">
         <seg>No Styles defined</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200139Z">
-        <seg>Ingen stilarter defineret</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222222Z">
+        <seg>Ingen filtre defineret</seg>
       </tuv>
     </tu>
     <tu>
@@ -6696,8 +6704,8 @@
       <tuv lang="EN-US">
         <seg>Remove this Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200057Z">
-        <seg>Fjern denne stilart</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222129Z">
+        <seg>Fjern dette filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -8136,8 +8144,8 @@
       <tuv lang="EN-US">
         <seg>Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T200108Z">
-        <seg>Stilarter</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151127T222144Z">
+        <seg>Filtre</seg>
       </tuv>
     </tu>
     <tu>
