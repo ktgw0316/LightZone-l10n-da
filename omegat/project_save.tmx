@@ -912,8 +912,8 @@
       <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150227T204420Z">
-        <seg>Auto-gem er nu startet</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212613Z">
+        <seg>Auto-gem er nu gældene</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,8 +4328,8 @@
       <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155842Z">
-        <seg>Hvis du ikke gemer vil lle ændringer gå tabt.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212533Z">
+        <seg>Hvis du ikke gemer vil alle ændringer gå tabt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7198,6 +7198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save LightZone files as</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212432Z" creationid="lars" creationdate="20151128T212432Z">
+        <seg>Gem LightZone filer som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save LightZone files as:</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150528T192458Z" creationid="lars" creationdate="20150528T192458Z">
@@ -7266,6 +7274,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165145Z">
         <seg>Gem i $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save to Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212444Z" creationid="lars" creationdate="20151128T212444Z">
+        <seg>Gem i mappe</seg>
       </tuv>
     </tu>
     <tu>
