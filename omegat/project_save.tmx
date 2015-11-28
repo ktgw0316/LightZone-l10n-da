@@ -360,8 +360,8 @@
       <tuv lang="EN-US">
         <seg>AF points used</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T202623Z">
-        <seg>benyttedeAF punkter</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213404Z">
+        <seg>benyttede AF punkter</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,7 +1608,7 @@
       <tuv lang="EN-US">
         <seg>Choose</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T191934Z" creationid="lars" creationdate="20150528T191934Z">
+      <tuv lang="DA" changeid="lars" changedate="20151128T213546Z" creationid="lars" creationdate="20150528T191934Z">
         <seg>Valg</seg>
       </tuv>
     </tu>
@@ -2002,6 +2002,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211721Z" creationid="larshenrikoern" creationdate="20141218T211721Z">
         <seg>Farve info (D30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color info-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213359Z" creationid="lars" creationdate="20151128T213359Z">
+        <seg>Farve info-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,6 +3850,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T210250Z">
         <seg>Blitz indstilling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flash strength</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213424Z" creationid="lars" creationdate="20151128T213424Z">
+        <seg>Blitz styrke</seg>
       </tuv>
     </tu>
     <tu>
@@ -10074,6 +10090,38 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T200608Z">
         <seg>brugervalgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom 1</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213321Z" creationid="lars" creationdate="20151128T213321Z">
+        <seg>brugervalgt 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom 2</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213328Z" creationid="lars" creationdate="20151128T213328Z">
+        <seg>brugervalgt 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom 3</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213337Z" creationid="lars" creationdate="20151128T213337Z">
+        <seg>brugervalgt 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom 4</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213346Z" creationid="lars" creationdate="20151128T213346Z">
+        <seg>brugervalgt 4</seg>
       </tuv>
     </tu>
     <tu>
