@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backward version</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212834Z" creationid="lars" creationdate="20151128T212834Z">
+        <seg>Forrige version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base ISO</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T195145Z">
@@ -1050,6 +1058,38 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T212115Z">
         <seg>Sort og hvid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212907Z" creationid="lars" creationdate="20151128T212907Z">
+        <seg>Sort punkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level delta H</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212933Z" creationid="lars" creationdate="20151128T212933Z">
+        <seg>Sort punkt delta H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level delta V</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212939Z" creationid="lars" creationdate="20151128T212939Z">
+        <seg>Sort punkt delta V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level repeat dim</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212920Z" creationid="lars" creationdate="20151128T212920Z">
+        <seg>Sort punkt gentag dim</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1490,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154807Z">
         <seg>Kan ikke forstryde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caption</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212746Z" creationid="lars" creationdate="20151128T212746Z">
+        <seg>Fremhævelse</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +8902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unique camera model</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212843Z" creationid="lars" creationdate="20151128T212843Z">
+        <seg>Unik kamera model</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown error opening this file</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155200Z">
@@ -9114,6 +9170,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T213754Z">
         <seg>hvid balance temperatur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White level</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212953Z" creationid="lars" creationdate="20151128T212953Z">
+        <seg>Hvid punkt</seg>
       </tuv>
     </tu>
     <tu>
@@ -11354,6 +11418,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211041Z" creationid="larshenrikoern" creationdate="20141218T211041Z">
         <seg>bagfra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rectangular</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T212823Z" creationid="lars" creationdate="20151128T212823Z">
+        <seg>retangulær</seg>
       </tuv>
     </tu>
     <tu>
