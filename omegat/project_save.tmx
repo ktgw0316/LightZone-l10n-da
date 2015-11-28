@@ -616,8 +616,8 @@
       <tuv lang="EN-US">
         <seg>Antialias strength</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141123T205342Z">
-        <seg>Antialias stryrke</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213013Z">
+        <seg>Antialias styrke</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color processing info-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213204Z" creationid="lars" creationdate="20151128T213204Z">
+        <seg>Farve processing info-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color profile</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T202755Z">
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160949Z">
         <seg>Brugervalgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom functions (1D)-X</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213149Z" creationid="lars" creationdate="20151128T213149Z">
+        <seg>Brugervalgte funktioner (1D)-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -10258,6 +10274,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150426T200743Z">
         <seg>da-DK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enabled</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213127Z" creationid="lars" creationdate="20151128T213127Z">
+        <seg>Lukker gardine åbent</seg>
       </tuv>
     </tu>
     <tu>
