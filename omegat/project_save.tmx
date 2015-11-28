@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213816Z" creationid="lars" creationdate="20151128T213816Z">
+        <seg>Forfatter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crop</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154246Z">
@@ -2968,8 +2976,8 @@
       <tuv lang="EN-US">
         <seg>Display Color Profile</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T192402Z" creationid="lars" creationdate="20150528T192402Z">
-        <seg>Vis frave Profil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213601Z" creationid="lars" creationdate="20150528T192402Z">
+        <seg>Vis farve Profil</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,6 +3298,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154124Z">
         <seg>Gennemtving højde-bredde begrænsning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter copyright text here.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213834Z" creationid="lars" creationdate="20151128T213834Z">
+        <seg>Skriv copyright tekst her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5118,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Info</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213648Z" creationid="lars" creationdate="20151128T213648Z">
+        <seg>LightZone Indstillings Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings Reset</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213725Z" creationid="lars" creationdate="20151128T213725Z">
+        <seg>Nulstil LightZones indstillinger </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings couldn't be reset</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150528T192426Z">
@@ -6006,6 +6038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213900Z" creationid="lars" creationdate="20151128T213900Z">
+        <seg>Oprindelig mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Original LightZone from Light Crafts</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150426T200913Z" creationid="lars" creationdate="20150426T200913Z">
@@ -6202,6 +6242,22 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T203903Z">
         <seg>Vælg en mappe med billeder i.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick a new color profile for this display</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213635Z" creationid="lars" creationdate="20151128T213635Z">
+        <seg>Vælg en ny farve profil for denne skærm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick a new scratch folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213735Z" creationid="lars" creationdate="20151128T213735Z">
+        <seg>Vælg en ny stom mappe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6630,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recent Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213846Z" creationid="lars" creationdate="20151128T213846Z">
+        <seg>Nylig mappe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recently used files and directories</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161402Z">
@@ -6994,6 +7058,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215641Z">
         <seg>Nulstil rotations vinkelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset...</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213612Z" creationid="lars" creationdate="20151128T213612Z">
+        <seg>Nulstil...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7458,6 +7530,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T213814Z">
         <seg>Billed mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scratch Folder</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151128T213742Z" creationid="lars" creationdate="20151128T213742Z">
+        <seg>Tom mappe</seg>
       </tuv>
     </tu>
     <tu>
