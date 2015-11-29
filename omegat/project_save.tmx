@@ -296,8 +296,8 @@
       <tuv lang="EN-US">
         <seg>A Style named "$1" already exists.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155416Z">
-        <seg>En stil ved navn "$1" findes allerede.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200047Z">
+        <seg>Et filter ved navn "$1" findes allerede.</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +688,8 @@
       <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141108T213504Z">
-        <seg>Tilføj stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200216Z">
+        <seg>Tilføj filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,8 +2328,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155516Z">
-        <seg>Kunne ikke få adgang til "$1" stilen</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200111Z">
+        <seg>Kunne ikke få adgang til "$1" filteret</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,8 +2368,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't find a Style named "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155455Z">
-        <seg>Kunne ikke finde en stil ved navn "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200104Z">
+        <seg>Kunne ikke finde et filter ved navn "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2400,16 +2400,16 @@
       <tuv lang="EN-US">
         <seg>Couldn't import a Style from "$1".</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155617Z">
-        <seg>Kunne ikke importere en stil fra "$1".</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200036Z">
+        <seg>Kunne ikke importere et filter fra "$1".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't interpret the file "$1" as a Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155539Z">
-        <seg>Kunne ikke udføre filen "$1" som en stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200118Z">
+        <seg>Kunne ikke udføre filen "$1" som et filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,8 +2480,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155441Z">
-        <seg>Kunne ikke gemme denne stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200056Z">
+        <seg>Kunne ikke gemme dette filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -3368,8 +3368,8 @@
       <tuv lang="EN-US">
         <seg>Error applying Style "$1"</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155558Z">
-        <seg>Fejl i tilføjelsen af stilen "$1"</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200125Z">
+        <seg>Fejl i tilføjelsen af filteret "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,8 +4624,8 @@
       <tuv lang="EN-US">
         <seg>Import as Style</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155320Z">
-        <seg>Importer som stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200004Z">
+        <seg>Importer som filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -4808,8 +4808,8 @@
       <tuv lang="EN-US">
         <seg>Is this a LightZone Style file?</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150102T211055Z">
-        <seg>Er dette en LightZone stil fil?</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200014Z">
+        <seg>Er dette en LightZone filter fil?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5464,8 +5464,8 @@
       <tuv lang="EN-US">
         <seg>Manage Styles...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165418Z">
-        <seg>Håndter stile...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200230Z">
+        <seg>Håndter filtre...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5832,8 +5832,8 @@
       <tuv lang="EN-US">
         <seg>No Styles</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165409Z">
-        <seg>Ingen stil</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200223Z">
+        <seg>Intet filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -7384,8 +7384,8 @@
       <tuv lang="EN-US">
         <seg>Save as Style...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165400Z">
-        <seg>Gem som stil...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200212Z">
+        <seg>Gem som filter...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9448,8 +9448,8 @@
       <tuv lang="EN-US">
         <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155310Z">
-        <seg>Du kan åbne denne fil eller prøve at importere den som en LightZone stil.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200024Z">
+        <seg>Du kan åbne denne fil eller prøve at importere den som et LightZone filter.</seg>
       </tuv>
     </tu>
     <tu>
