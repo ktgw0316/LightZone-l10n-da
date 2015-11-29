@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>"Corrupted application";</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20151127T221749Z" creationid="lars" creationdate="20151127T221749Z">
-        <seg>"Mangelfuld installtion";</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T195215Z" creationid="lars" creationdate="20151127T221749Z">
+        <seg>"Mangelfuld installation";</seg>
       </tuv>
     </tu>
     <tu>
@@ -3704,8 +3704,8 @@
       <tuv lang="EN-US">
         <seg>File time</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141204T200107Z">
-        <seg>Fil opretelses tidspunkt</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T195045Z">
+        <seg>Fil oprettelses tidspunkt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,8 +6304,8 @@
       <tuv lang="EN-US">
         <seg>Pixels per inch</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20151127T222411Z" creationid="lars" creationdate="20151127T222411Z">
-        <seg>Pixels per tommr</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T195131Z" creationid="lars" creationdate="20151127T222411Z">
+        <seg>Pixels per tomme</seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,16 +7472,16 @@
       <tuv lang="EN-US">
         <seg>Scale</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215442Z">
-        <seg>Scaler</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T195138Z">
+        <seg>Skaler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scale to Fit</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215437Z">
-        <seg>Scaler til side</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T195135Z">
+        <seg>Skaler til side</seg>
       </tuv>
     </tu>
     <tu>
