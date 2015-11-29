@@ -7126,6 +7126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200733Z" creationid="lars" creationdate="20151129T200733Z">
+        <seg>Nulstilling af LightZones indstilinger vil gøre at LightZone vil fungere som nyinstalleret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restoring Preferences</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155946Z">
@@ -8658,6 +8666,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154747Z">
         <seg>Denne stil har intet verisions nummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can fix lots of problems, but loses your customizations.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200806Z" creationid="lars" creationdate="20151129T200806Z">
+        <seg>Dette kan løse mange problemer, men du mister dine tilpasninger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10800,8 +10816,8 @@
       <tuv lang="EN-US">
         <seg>images</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150203T195258Z" creationid="lars" creationdate="20150203T195258Z">
-        <seg>billederimages</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200833Z" creationid="lars" creationdate="20150203T195258Z">
+        <seg>billeder</seg>
       </tuv>
     </tu>
     <tu>
