@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Error starting Java virtual machine.";</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200541Z" creationid="lars" creationdate="20151129T200541Z">
+        <seg>"Fejl i start af Java virtual machine.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Info" tab is now also available in Editor mode.</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150427T091024Z" creationid="lars" creationdate="20150427T091024Z">
@@ -8026,6 +8034,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155400Z">
         <seg>Vis rotations værktøjet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Tool Titles</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20151129T200437Z" creationid="lars" creationdate="20151129T200437Z">
+        <seg>Vis Værktøjs navne</seg>
       </tuv>
     </tu>
     <tu>
