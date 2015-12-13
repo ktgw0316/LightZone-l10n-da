@@ -2224,7 +2224,7 @@
       <tuv lang="EN-US">
         <seg>Convert</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155700Z">
+      <tuv lang="DA" changeid="lars" changedate="20151213T120518Z">
         <seg>Konverter</seg>
       </tuv>
     </tu>
@@ -2240,16 +2240,16 @@
       <tuv lang="EN-US">
         <seg>Convert the selected image to a new image type</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165105Z">
-        <seg>Konverter det valgte bille til en anden billedtype</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151213T120502Z">
+        <seg>Konverter det valgte billede til en anden billedtype</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Convert...</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160158Z">
-        <seg>Konverter...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151213T120442Z">
+        <seg>Fremkald...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,8 +2264,8 @@
       <tuv lang="EN-US">
         <seg>Converting...</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150102T211146Z">
-        <seg>Konverterer...</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151213T120417Z">
+        <seg>Fremkalder...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2352,8 +2352,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't convert $1</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155720Z">
-        <seg>Kunne ikke konvertere $1</seg>
+      <tuv lang="DA" changeid="lars" changedate="20151213T120428Z">
+        <seg>Kunne ikke fremkalde $1</seg>
       </tuv>
     </tu>
     <tu>
