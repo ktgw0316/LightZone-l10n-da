@@ -5544,8 +5544,8 @@
       <tuv lang="EN-US">
         <seg>Memory Limit</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20150528T192444Z" creationid="lars" creationdate="20150528T192444Z">
-        <seg>Hukommeses grænse</seg>
+      <tuv lang="DA" changeid="lars" changedate="20160312T144339Z" creationid="lars" creationdate="20150528T192444Z">
+        <seg>Hukommelses grænse</seg>
       </tuv>
     </tu>
     <tu>
