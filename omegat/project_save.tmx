@@ -280,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160811Z">
-        <seg>&lt;html&gt;Forsæt  (Progammet kan være ustabilt)&lt;/html&gt;</seg>
+      <tuv lang="DA" changeid="lars" changedate="20160329T084247Z">
+        <seg>&lt;html&gt;Forsæt  (Programmet kan være ustabilt)&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5976,8 +5976,8 @@
       <tuv lang="EN-US">
         <seg>Open</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T155100Z">
-        <seg>Åbn</seg>
+      <tuv lang="DA" changeid="lars" changedate="20160329T084235Z">
+        <seg>Åbnr</seg>
       </tuv>
     </tu>
     <tu>
