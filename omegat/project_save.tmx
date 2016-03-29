@@ -6566,6 +6566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Province/State</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083742Z" creationid="lars" creationdate="20160329T083742Z">
+        <seg>Provins/Stat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155719Z">
@@ -9662,6 +9670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>alternative energy</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083840Z" creationid="lars" creationdate="20160329T083840Z">
+        <seg>alternativ energi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aperture priority</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T203729Z">
@@ -10022,6 +10038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>central banks</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083854Z" creationid="lars" creationdate="20160329T083854Z">
+        <seg>central banker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>chemicals</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141218T211612Z" creationid="larshenrikoern" creationdate="20141218T211612Z">
@@ -10098,6 +10122,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141129T213633Z">
         <seg>skyet vejr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>coal</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083817Z" creationid="lars" creationdate="20160329T083817Z">
+        <seg>kul</seg>
       </tuv>
     </tu>
     <tu>
@@ -11310,6 +11342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>nuclear power</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083810Z" creationid="lars" creationdate="20160329T083810Z">
+        <seg>atom kraft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>off</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T200930Z">
@@ -12418,6 +12458,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T204448Z">
         <seg>advarsel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>water supply</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083801Z" creationid="lars" creationdate="20160329T083801Z">
+        <seg>vand forsyning</seg>
       </tuv>
     </tu>
     <tu>
