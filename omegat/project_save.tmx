@@ -7064,8 +7064,8 @@
       <tuv lang="EN-US">
         <seg>Reset the rotation angle</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T215641Z">
-        <seg>Nulstil rotations vinkelen</seg>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083224Z">
+        <seg>Nulstil rotations vinklen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9208,8 +9208,8 @@
       <tuv lang="EN-US">
         <seg>View</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165802Z">
-        <seg>Se</seg>
+      <tuv lang="DA" changeid="lars" changedate="20160313T211708Z">
+        <seg>Udseende</seg>
       </tuv>
     </tu>
     <tu>
