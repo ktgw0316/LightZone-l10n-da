@@ -2550,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creator title</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160329T083707Z" creationid="lars" creationdate="20160329T083707Z">
+        <seg>Kunstner navn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crop</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154246Z">
