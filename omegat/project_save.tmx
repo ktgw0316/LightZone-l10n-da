@@ -4934,6 +4934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lars Henrik Ørn (Danish), Andreas Rother (German), Roberto Quintero (Spanish), Nicolas Boulesteix (French), Hans Cremers (Dutch), and Masahiro Kitagawa (Japanese).</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200020Z" creationid="lars" creationdate="20160816T200020Z">
+        <seg>Lars Henrik Ørn (Dansk), Andreas Rother (Tysk), Roberto Quintero (Spansk), Nicolas Boulesteix (Fransk), Hans Cremers (Holladnsk), and Masahiro Kitagawa (Japansk).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last file number</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T205644Z">
@@ -5680,8 +5688,8 @@
       <tuv lang="EN-US">
         <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
       </tuv>
-      <tuv lang="DA" changeid="larshenrikoern" changedate="20141113T125714Z">
-        <seg>Flyt musen til det objekt du vil undersøge og klik for at få mere at vide om det</seg>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200042Z">
+        <seg>Flyt musen til det objekt du vil undersøge, og klik for at få mere at vide om det</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,6 +8634,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T160448Z">
         <seg>LightZone filen, "$1" kan ikke finde sin billed fil,"$2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The RGB color space can represent all luminosities from 100% white to 100% black.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200254Z" creationid="lars" creationdate="20160816T200254Z">
+        <seg>RGB farve rummet kan representere alle farver fra 100% hvid til 100% sort.</seg>
       </tuv>
     </tu>
     <tu>
