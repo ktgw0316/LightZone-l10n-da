@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Color Mask tab.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T201102Z" creationid="lars" creationdate="20160816T201102Z">
+        <seg>Klick farve maskerings knappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Crop button again to commit.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T154732Z">
@@ -4690,6 +4698,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20160816T200752Z" creationid="lars" creationdate="20160816T200752Z">
         <seg>I (a), er intet markeret så billedet viser hele fotoet med alle farver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (b), the blues have been selected so the areas of the photo that are blue are shown as white (selected) and the rest is shown as black (not selected).</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200927Z" creationid="lars" creationdate="20160816T200927Z">
+        <seg>I (b), er blå blevet valgt, så de dele af billedetder indeholder blåt er vist som hvidt (markeret) og rsten er vist som sort (ikke markeret)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8986,6 +9002,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T212040Z" creationid="lars" creationdate="20150101T212040Z">
         <seg>For at lære mere om at benytter ZoneMapper værktøjet klik neden for.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show the Color Selection Preview:</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T201028Z" creationid="lars" creationdate="20160816T201028Z">
+        <seg>For at se farvevlalgets forhåndsvisning:</seg>
       </tuv>
     </tu>
     <tu>
