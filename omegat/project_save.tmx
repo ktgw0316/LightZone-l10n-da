@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4902,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keepers</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T195904Z" creationid="lars" creationdate="20160816T195904Z">
+        <seg>Hjælpere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150101T212213Z" creationid="lars" creationdate="20150101T212213Z">
@@ -5856,8 +5864,8 @@
       <tuv lang="EN-US">
         <seg>No Styles defined</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20151127T222222Z">
-        <seg>Ingen filtre defineret</seg>
+      <tuv lang="DA" changeid="lars" changedate="20160816T195815Z">
+        <seg>Ingen filtre oprettet</seg>
       </tuv>
     </tu>
     <tu>
@@ -6002,6 +6010,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T165305Z">
         <seg>Åben nylige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source Team</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T195854Z" creationid="lars" creationdate="20160816T195854Z">
+        <seg>Open Source Hold</seg>
       </tuv>
     </tu>
     <tu>
