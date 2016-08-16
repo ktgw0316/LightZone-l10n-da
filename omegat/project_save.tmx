@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, compare what is shown below.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200622Z" creationid="lars" creationdate="20160816T200622Z">
+        <seg>For exampel, sammenlign det som er vist nedenfor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frame number</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215446Z">
