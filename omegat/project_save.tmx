@@ -166,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) no color selected</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200635Z" creationid="lars" creationdate="20160816T200635Z">
+        <seg>(a) ingen farver valgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) blues selected</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200650Z" creationid="lars" creationdate="20160816T200650Z">
+        <seg>(b) blå farver valgt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T155212Z">
@@ -4666,6 +4682,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T205429Z" creationid="lars" creationdate="20150227T205429Z">
         <seg>Importering af stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (a), no selection has been made so the viewer shows your entire photo in full color.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20160816T200752Z" creationid="lars" creationdate="20160816T200752Z">
+        <seg>I (a), er intet markeret så billedet viser hele fotoet med alle farver.</seg>
       </tuv>
     </tu>
     <tu>
