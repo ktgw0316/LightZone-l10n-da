@@ -4118,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if there are the &lt;a0&gt;Hue/Saturation&lt;/a0&gt; and &lt;a1&gt;Blur&lt;/a1&gt; tools in the tool stack, what you see is your original photo modified by the the Hue/Saturation tool further modified by the the blur tool.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211730Z" creationid="lars" creationdate="20170102T211730Z">
+        <seg>For eksempel, hvis der er &lt;a0&gt;Hue/Saturation&lt;/a0&gt; and &lt;a1&gt;Blur&lt;/a1&gt; tools in the tool stack, what you see is your original photo modified by the the Hue/Saturation tool further modified by the the blur tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frame number</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215446Z">
@@ -8770,6 +8778,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T161350Z">
         <seg>Mængden af hukommelse til rådighed for LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effect of tools is applied from the bottom of the tool stack to the top.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211634Z" creationid="lars" creationdate="20170102T211634Z">
+        <seg>Effekten  af værktøjerne starter fra det nederste værktøj og op</seg>
       </tuv>
     </tu>
     <tu>
