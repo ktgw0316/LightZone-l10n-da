@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1736,8 +1736,8 @@
       <tuv lang="EN-US">
         <seg>Click the Color Mask tab.</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20160816T201102Z" creationid="lars" creationdate="20160816T201102Z">
-        <seg>Klick farve maskerings knappen.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20170102T210712Z" creationid="lars" creationdate="20160816T201102Z">
+        <seg>Klik farve maskerings knappen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to navigate the folders and browse photos.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T210847Z" creationid="lars" creationdate="20170102T210847Z">
+        <seg>Hvordan der findes rundt og søges i foto mapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hue</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T200042Z">
@@ -5346,6 +5354,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T193928Z">
         <seg>LightZone: Editor opbygning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Navigating Folders</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T210800Z" creationid="lars" creationdate="20170102T210800Z">
+        <seg>LightZone: Navigering i mapper</seg>
       </tuv>
     </tu>
     <tu>
