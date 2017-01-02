@@ -4120,8 +4120,8 @@
       <tuv lang="EN-US">
         <seg>For example, if there are the &lt;a0&gt;Hue/Saturation&lt;/a0&gt; and &lt;a1&gt;Blur&lt;/a1&gt; tools in the tool stack, what you see is your original photo modified by the the Hue/Saturation tool further modified by the the blur tool.</seg>
       </tuv>
-      <tuv lang="DA" changeid="lars" changedate="20170102T211730Z" creationid="lars" creationdate="20170102T211730Z">
-        <seg>For eksempel, hvis der er &lt;a0&gt;Hue/Saturation&lt;/a0&gt; and &lt;a1&gt;Blur&lt;/a1&gt; tools in the tool stack, what you see is your original photo modified by the the Hue/Saturation tool further modified by the the blur tool.</seg>
+      <tuv lang="DA" changeid="lars" changedate="20170102T212023Z" creationid="lars" creationdate="20170102T211730Z">
+        <seg>For eksempel, hvis der er &lt;a0&gt;Farve/mætning&lt;/a0&gt; og &lt;a1&gt;sløring&lt;/a1&gt; værktøjer i værktøjs stakken, vil du se billedet modificeret først med Farve/mætning værktøjet og derefter sløring værktøjet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8850,6 +8850,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141109T154702Z">
         <seg>Denne fil har intet verisions nummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is illustrated in the figure below.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T212102Z" creationid="lars" creationdate="20170102T212102Z">
+        <seg>Dett er illustretret i nednestående figur</seg>
       </tuv>
     </tu>
     <tu>
