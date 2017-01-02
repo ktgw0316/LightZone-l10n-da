@@ -6038,6 +6038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the lower-right side of the LightZone window is the tool stack that shows all the tools created for your photo.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211311Z" creationid="lars" creationdate="20170102T211311Z">
+        <seg>På nedre højre side af LightZone viduet er værktøjs stakkern der viser alle de værktøjer der bruges på dit billede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One-touch white balance</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T211858Z">
@@ -8782,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The title bar of the selected tool is orange.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211344Z" creationid="lars" creationdate="20170102T211344Z">
+        <seg>Navnet på værktøjslijen på det valgte værktøj er orange</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was a problem checking for an update.</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141115T162106Z">
@@ -8994,6 +9010,14 @@
       </tuv>
       <tuv lang="DA" changeid="lars" changedate="20150227T204140Z">
         <seg>Til mappe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the ordering of a tool in the tool stack, drag it by its title bar.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211523Z" creationid="lars" creationdate="20170102T211523Z">
+        <seg>Far at ændre på rækkefølgen af værktøjerne, flyttes det op eller ned ved at trække i værktøjets navn med musen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9378,6 +9402,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141118T194446Z">
         <seg>Hvad er nyt i LightZone?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a new tool is created, it is placed on the top of the stack.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211430Z" creationid="lars" creationdate="20170102T211430Z">
+        <seg>Når et nyt værktøjm tages i brug, placeres det øverst i værktøjs stakken</seg>
       </tuv>
     </tu>
     <tu>
