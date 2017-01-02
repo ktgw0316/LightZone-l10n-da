@@ -2902,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the tool stack.</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211155Z" creationid="lars" creationdate="20170102T211155Z">
+        <seg>Beskrivelse af værktøjs stakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destination city</seg>
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141121T215233Z">
@@ -5394,6 +5402,14 @@
       </tuv>
       <tuv lang="DA" changeid="larshenrikoern" changedate="20141112T212326Z">
         <seg>LightZone: Indhodsfortegnelse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Tool Stack</seg>
+      </tuv>
+      <tuv lang="DA" changeid="lars" changedate="20170102T211136Z" creationid="lars" creationdate="20170102T211136Z">
+        <seg>LightZone: Værktøjs stak</seg>
       </tuv>
     </tu>
     <tu>
